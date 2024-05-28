@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Belangrijk! Er zit geen gratis inhoud in! U moet geabonneerd zijn om toegang te krijgen tot de inhoud en functies van de app. De betaling wordt in rekening gebracht na bevestiging van aankoop van het abonnement.\n\n- Het abonnement wordt automatisch verlengd, tenzij automatische verlenging ten minste 24 uur vóór het einde van de huidige periode wordt uitgeschakeld.\n- De verlengingskosten zijn afhankelijk van het abonnement. . Onze standaardabonnementen: Een abonnement van 1 week kost $ 9,99. Voor andere valuta komt de prijs overeen met het prijsniveau in de App Store-prijsmatrix.\n- Een abonnement met een gratis proefperiode wordt automatisch verlengd naar een betaald abonnement. U kunt de automatische verlenging van de gratis proefperiode annuleren of beheren door na aankoop naar uw accountinstellingen te gaan\n- Let op: elk ongebruikt deel van de gratis proefperiode van drie dagen (indien aangeboden) vervalt als u een premium-abonnement aanschaft tijdens de gratis proefperiode\n- Raadpleeg ons privacybeleid en onze gebruiksvoorwaarden voor alle andere informatie.";
+/**/
+"restoreNoPurTit"="Geen aankopen om te herstellen";
+/**/
+"restoreNoPurSubTit"="Er zijn geen in-app aankopen om te herstellen.";
+/**/
+"restorePurTit"="Aankopen hersteld";
+/**/
+"restorePurSubTit"="Je aankopen zijn hersteld..";
+/**/
+"iOSButtonID"="DOORGAAN";
+/**/
+"iOSStart3daysTitleID"="START 3 DAGEN GRATIS \nDAN %@/WEEK";
+
+/**/
+"LoadingID"="BEZIG MET LADEN";
+
+/**/
+"PrivacyID"="Privacybeleid";
+
+/**/
+"restore"="Herstellen";
+
+/**/
+"TermsID"="Gebruiksvoorwaarden";
+
+/**/
+"SliderID1_entrance"="tekst tekst tekst tekst tekst tekst tekst"; //Текст под кнопкой
+"SliderID1tap"="Kraan";
+"SliderID1to"="naar";
+
+//"SliderID1_mods"="Installeer nu nieuwe mods voor toca";
+//"SliderID1_maps"="Ontdek de hele wereld van toca";
+//"SliderID1_sets"="Ontvang nu unieke haar- en ogenpakketten";
+//"SliderID1_characters"="Verkrijg de grootste verzameling personages";
+//"SliderID1_guides"="Verbeter nu je toca-spel";
+
+/**/
+"SliderID2_entrance"="ТEXT TEKST TEKST TEKST ТEXT TEKST TEKST TEKST TEKST";  //Текст 1
+"SliderID2sub_entrance"="Тext tekst tekst tekst tekst tekst tekst"; //ПодТекст 1
+
+//"SliderID2_mods"="speel met unieke personages en geniet ervan";
+//"SliderID2sub_mods"="ontvang de beste mods, ideeën, sets en meer";
+//"SliderID2_maps"="bouw je droomhuis op de nieuwe Toca-kaarten";
+//"SliderID2sub_maps"="speel als nooit tevoren";
+//"SliderID2_sets"="creëer de grootste verzameling karakters";
+//"SliderID2sub_sets"="ontgrendel alle pakketten voor Toca";
+//"SliderID2_characters"="creëer nieuwe verhalen met verschillende karakters";
+//"SliderID2sub_characters"="installeren in 1 tik en genieten";
+//"SliderID2_guides"="krijg alle nuttige tips en ontgrendel verborgen geheimen";
+//"SliderID2sub_guides"="begin nu met creëren";
+
+/**/
+"SliderID3"="Start 3 dagen gratis, daarna $ 4,99/7 dagen"; //Текст 2
+"SliderID3sub"="Annuleer op elk gewenst moment"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="ТEXT TEKST TEKST TEKST ТEXT TEKST TEKST TEKST TEKST";  //Текст 3
+"SliderID4sub_entrance"="Тext tekst tekst tekst tekst tekst tekst"; //ПодТекст 3
+
+"TextSub4ID"="Тext tekst tekst tekst";
+"TextSub5ID"="Тext tekst tekst tekst";
+
+"TextSub2ID"="Тext tekst tekst tekst";
+"TextSub6ID"="Тext tekst tekst tekst";
+
+//"SliderID4_mods"="Creëer je geweldige verhalen en geniet ervan";
+//"SliderID4sub_mods"="Ontvang onbeperkte mods";
+//"SliderID4_maps"="Ontgrendel alle locaties in 1 tik en speel zonder grenzen";
+//"SliderID4sub_maps"="Veel plezier met je spel";
+//"SliderID4_sets"="Geniet nu van interessante ogen en heldere kapsels";
+//"SliderID4sub_sets"="Onbeperkt toegang";
+//"SliderID4_characters"="Speel als nooit tevoren met unieke personages";
+//"SliderID4sub_characters"="Speel zonder grenzen";
+//"SliderID4_guides"="Ontdek onbeperkte recepten, pakketten en meer";
+//"SliderID4sub_guides"="Speel als nooit tevoren";
+/**/
+
+"SliderID5"="VERZAMEL ALLE PANTSERSETS PER LOCATIE";
+
+"SliderNoPayment"="Geen betaling nu";
+
+/**/
+"Text0ID"="ТEXT TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="ТEXT TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo-vaardigheid";
+
+/**/
+"Text19ID"="Zekering vermogen";
+
+/**/
+"Text20ID"="Stijgvermogen";
+
+/**/
+"Text21ID"="Herinner het vermogen";
+
+/**/
+"Text22ID"="Cameravermogen";
+
+/**/
+
+"Text30ID"="Connectiviteitsprobleem";
+"Text31ID"="De internetverbinding lijkt offline te zijn ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kaart naam";
+"Sub_s0_i1"="Kaart naam";
+"Sub_s0_i2"="Kaart naam";
+"Sub_s0_i3"="Kaart naam";
+"Sub_s0_i4"="Kaart naam";
+"Sub_s0_i5"="Kaart naam";
+"Sub_s0_i6"="Kaart naam";
+"Sub_s0_i7"="Kaart naam";
+"Sub_s0_i8"="Kaart naam";
+"Sub_s0_i9"="Kaart naam";
+"Sub_s0_i10"="Kaart naam";
+
+"Sub_s1_i0"="Kaart naam";
+"Sub_s1_i1"="Kaart naam";
+"Sub_s1_i2"="Kaart naam";
+"Sub_s1_i3"="Kaart naam";
+"Sub_s1_i4"="Kaart naam";
+"Sub_s1_i5"="Kaart naam";
+"Sub_s1_i6"="Kaart naam";
+"Sub_s1_i7"="Kaart naam";
+"Sub_s1_i8"="Kaart naam";
+"Sub_s1_i9"="Kaart naam";
+"Sub_s1_i10"="Kaart naam";
+

@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Viktig! Det er ikke noe gratis innhold inni! Du må abonnere for å få tilgang til appens innhold og funksjoner. Betaling belastes ved bekreftelse på kjøp av abonnementet.\n\n- Abonnementet fornyes automatisk med mindre automatisk fornyelse er slått av minst 24 timer før slutten av gjeldende periode\n- Fornyelseskostnaden avhenger av abonnementsplanen . Våre standard abonnementsplaner: 1 ukes abonnement er $ 9,99. For andre valutaer samsvarer prisen med prisnivået i App Store-prismatrisen\n- Abonnement med en gratis prøveperiode fornyes automatisk til et betalt abonnement. Du kan kansellere eller administrere den automatiske fornyelsen av den gratis prøveperioden ved å gå til kontoinnstillingene dine etter kjøpet\n- Merk: Enhver ubrukt del av den tre-dagers gratis prøveperioden (hvis tilbudt) vil gå tapt ved kjøp av et premiumabonnement i løpet av den gratis prøveperioden\n- For annen informasjon, se vår personvernerklæring og vilkår for bruk.";
+/**/
+"restoreNoPurTit"="Ingen kjøp å gjenopprette";
+/**/
+"restoreNoPurSubTit"="Det er ingen kjøp i appen å gjenopprette.";
+/**/
+"restorePurTit"="Kjøp gjenopprettet";
+/**/
+"restorePurSubTit"="Kjøpene dine er gjenopprettet..";
+/**/
+"iOSButtonID"="FORTSETTE";
+/**/
+"iOSStart3daysTitleID"="START 3 DAGER GRATIS \nSÅ %@/UKE";
+
+/**/
+"LoadingID"="LASTER";
+
+/**/
+"PrivacyID"="Personvernerklæring";
+
+/**/
+"restore"="Restaurere";
+
+/**/
+"TermsID"="Vilkår for bruk";
+
+/**/
+"SliderID1_entrance"="tekst tekst tekst tekst tekst tekst tekst"; //Текст под кнопкой
+"SliderID1tap"="Trykk på";
+"SliderID1to"="til";
+
+//"SliderID1_mods"="Installer nye mods for toca nå";
+//"SliderID1_maps"="Utforsk hele verden av toca";
+//"SliderID1_sets"="Få unike hår- og øynepakker nå";
+//"SliderID1_characters"="Få den største samlingen av karakterer";
+//"SliderID1_guides"="Forbedre toca-spillet ditt nå";
+
+/**/
+"SliderID2_entrance"="TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST";  //Текст 1
+"SliderID2sub_entrance"="Tekst tekst tekst tekst tekst tekst tekst"; //ПодТекст 1
+
+//"SliderID2_mods"="lek med unike karakterer og nyt";
+//"SliderID2sub_mods"="få de beste mods, ideer, sett og mer";
+//"SliderID2_maps"="bygg ditt drømmehjem på de nye Toca-kartene";
+//"SliderID2sub_maps"="spille som aldri før";
+//"SliderID2_sets"="lage den største samlingen av karakterer";
+//"SliderID2sub_sets"="lås opp alle pakker for Toca";
+//"SliderID2_characters"="lage nye historier med forskjellige karakterer";
+//"SliderID2sub_characters"="installer med ett trykk og nyt";
+//"SliderID2_guides"="få alle nyttige tips og lås opp skjulte hemmeligheter";
+//"SliderID2sub_guides"="begynn å lage nå";
+
+/**/
+"SliderID3"="Start 3 dager gratis, deretter $4,99/7 dager"; //Текст 2
+"SliderID3sub"="Avbryt når som helst"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST";  //Текст 3
+"SliderID4sub_entrance"="Tekst tekst tekst tekst tekst tekst tekst"; //ПодТекст 3
+
+"TextSub4ID"="Tekst tekst tekst tekst";
+"TextSub5ID"="Tekst tekst tekst tekst";
+
+"TextSub2ID"="Tekst tekst tekst tekst";
+"TextSub6ID"="Tekst tekst tekst tekst";
+
+//"SliderID4_mods"="Lag dine fantastiske historier og nyt";
+//"SliderID4sub_mods"="Få ubegrensede mods";
+//"SliderID4_maps"="Lås opp alle plasseringer med ett trykk og spill uten begrensninger";
+//"SliderID4sub_maps"="Nyt spillet ditt";
+//"SliderID4_sets"="Nyt interessante øyne og lyse frisyrer nå";
+//"SliderID4sub_sets"="Ubegrenset tilgang";
+//"SliderID4_characters"="Spill som aldri før med unike karakterer";
+//"SliderID4sub_characters"="Spill uten grenser";
+//"SliderID4_guides"="Oppdag ubegrensede oppskrifter, pakker og mer";
+//"SliderID4sub_guides"="Spill som aldri før";
+/**/
+
+"SliderID5"="SAMLE ALLE PANSERSETT ETTER PLASSERING";
+
+"SliderNoPayment"="Ingen betaling nå";
+
+/**/
+"Text0ID"="TEKST TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="TEKST TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo-evne";
+
+/**/
+"Text19ID"="Sikringsevne";
+
+/**/
+"Text20ID"="Oppstigningsevne";
+
+/**/
+"Text21ID"="Gjenkallingsevne";
+
+/**/
+"Text22ID"="Kamera evne";
+
+/**/
+
+"Text30ID"="Tilkoblingsproblem";
+"Text31ID"="Internett-tilkoblingen ser ut til å være offline ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kortnavn";
+"Sub_s0_i1"="Kortnavn";
+"Sub_s0_i2"="Kortnavn";
+"Sub_s0_i3"="Kortnavn";
+"Sub_s0_i4"="Kortnavn";
+"Sub_s0_i5"="Kortnavn";
+"Sub_s0_i6"="Kortnavn";
+"Sub_s0_i7"="Kortnavn";
+"Sub_s0_i8"="Kortnavn";
+"Sub_s0_i9"="Kortnavn";
+"Sub_s0_i10"="Kortnavn";
+
+"Sub_s1_i0"="Kortnavn";
+"Sub_s1_i1"="Kortnavn";
+"Sub_s1_i2"="Kortnavn";
+"Sub_s1_i3"="Kortnavn";
+"Sub_s1_i4"="Kortnavn";
+"Sub_s1_i5"="Kortnavn";
+"Sub_s1_i6"="Kortnavn";
+"Sub_s1_i7"="Kortnavn";
+"Sub_s1_i8"="Kortnavn";
+"Sub_s1_i9"="Kortnavn";
+"Sub_s1_i10"="Kortnavn";
+

@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Önemli! İçeride ücretsiz içerik yok! Uygulamanın içeriğine ve özelliklerine erişebilmek için abone olmanız gerekir. Ödeme, aboneliğin satın alınmasının onaylanması üzerine tahsil edilir.\n\n- Otomatik yenileme, mevcut dönemin bitiminden en az 24 saat önce kapatılmadığı sürece abonelik otomatik olarak yenilenecektir\n- Yenileme maliyeti abonelik planına bağlıdır . Standart abonelik planlarımız: 1 haftalık abonelik 9,99$'dır. Diğer para birimleri için fiyat, App Store Fiyat Matrisindeki fiyat düzeyiyle eşleşir\n- Ücretsiz deneme süreli abonelik, otomatik olarak ücretli aboneliğe yenilenir. Satın alma işleminden sonra Hesap Ayarlarınıza giderek ücretsiz deneme sürümünün otomatik olarak yenilenmesini iptal edebilir veya yönetebilirsiniz\n- Lütfen unutmayın: Üç günlük ücretsiz deneme süresinin (eğer teklif ediliyorsa) kullanılmayan kısmı, sırasında premium abonelik satın alındığında kaybedilecektir. ücretsiz deneme süresi\n- Diğer bilgiler için gizlilik politikamıza ve kullanım koşullarımıza bakın.";
+/**/
+"restoreNoPurTit"="Geri Yüklenecek Satın Alma Yok";
+/**/
+"restoreNoPurSubTit"="Geri yüklenecek uygulama içi satın alma işlemi yok.";
+/**/
+"restorePurTit"="Satın Alma İşlemleri Geri Yüklendi";
+/**/
+"restorePurSubTit"="Satın aldıklarınız geri yüklendi..";
+/**/
+"iOSButtonID"="DEVAM ETMEK";
+/**/
+"iOSStart3daysTitleID"="3 GÜNLÜK ÜCRETSİZ BAŞLAYIN \nSONRA %@/HAFTA";
+
+/**/
+"LoadingID"="YÜKLENİYOR";
+
+/**/
+"PrivacyID"="Gizlilik Politikası";
+
+/**/
+"restore"="Eski haline getirmek";
+
+/**/
+"TermsID"="Kullanım Şartları";
+
+/**/
+"SliderID1_entrance"="metin metin metin metin metin metin metin"; //Текст под кнопкой
+"SliderID1tap"="Musluk";
+"SliderID1to"="ile";
+
+//"SliderID1_mods"="Toca için yeni modları şimdi yükleyin";
+//"SliderID1_maps"="Toca'nın tüm dünyasını keşfedin";
+//"SliderID1_sets"="Şimdi benzersiz saç ve göz paketlerine sahip olun";
+//"SliderID1_characters"="En büyük karakter koleksiyonunu edinin";
+//"SliderID1_guides"="Toca oyununuzu şimdi geliştirin";
+
+/**/
+"SliderID2_entrance"="METİN METİN METİN METİN METİN METİN METİN METİN METİN";  //Текст 1
+"SliderID2sub_entrance"="Metin metni metin metni metin metni metin"; //ПодТекст 1
+
+//"SliderID2_mods"="benzersiz karakterlerle oynayın ve keyfini çıkarın";
+//"SliderID2sub_mods"="en iyi modları, fikirleri, setleri ve daha fazlasını edinin";
+//"SliderID2_maps"="yeni Toca haritalarında hayalinizdeki evi inşa edin";
+//"SliderID2sub_maps"="daha önce hiç olmadığı gibi oyna";
+//"SliderID2_sets"="en geniş karakter koleksiyonunu oluştur";
+//"SliderID2sub_sets"="Toca için tüm paketlerin kilidini aç";
+//"SliderID2_characters"="farklı karakterlerle yeni hikayeler yaratın";
+//"SliderID2sub_characters"="1 dokunuşla yükleyin ve keyfini çıkarın";
+//"SliderID2_guides"="tüm yararlı ipuçlarını alın ve gizli sırların kilidini açın";
+//"SliderID2sub_guides"="şimdi oluşturmaya başla";
+
+/**/
+"SliderID3"="3 gün ücretsiz başlayın, ardından 7 gün başına 4,99 ABD doları"; //Текст 2
+"SliderID3sub"="İstediğiniz zaman iptal edin"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="METİN METİN METİN METİN METİN METİN METİN METİN METİN";  //Текст 3
+"SliderID4sub_entrance"="Metin metni metin metni metin metni metin"; //ПодТекст 3
+
+"TextSub4ID"="Metin metni metin metni";
+"TextSub5ID"="Metin metni metin metni";
+
+"TextSub2ID"="Metin metni metin metni";
+"TextSub6ID"="Metin metni metin metni";
+
+//"SliderID4_mods"="Harika hikayelerinizi yaratın ve keyfini çıkarın";
+//"SliderID4sub_mods"="Sınırsız mod edinin";
+//"SliderID4_maps"="Tek bir dokunuşla tüm konumların kilidini açın ve sınırsız oynayın";
+//"SliderID4sub_maps"="Oyunun tadını çıkar";
+//"SliderID4_sets"="Şimdi ilginç gözlerin ve parlak saç stillerinin tadını çıkarın";
+//"SliderID4sub_sets"="Sınırsız erişim";
+//"SliderID4_characters"="Benzersiz karakterlerle daha önce hiç olmadığı gibi oynayın";
+//"SliderID4sub_characters"="Sınırsız oynayın";
+//"SliderID4_guides"="Sınırsız tarifleri, paketleri ve daha fazlasını keşfedin";
+//"SliderID4sub_guides"="Daha önce hiç olmadığı gibi oynayın";
+/**/
+
+"SliderID5"="KONUMLARA GÖRE TÜM ZIRH SETLERİNİ TOPLA";
+
+"SliderNoPayment"="Şimdi Ödeme Yok";
+
+/**/
+"Text0ID"="ТMETİN METİN METİN\nMETİN METİN METİN METİN"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="ТMETİN METİN METİN\nMETİN METİN METİN METİN"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo yeteneği";
+
+/**/
+"Text19ID"="Sigorta yeteneği";
+
+/**/
+"Text20ID"="Yükselme yeteneği";
+
+/**/
+"Text21ID"="Hatırlama yeteneği";
+
+/**/
+"Text22ID"="Kamera yeteneği";
+
+/**/
+
+"Text30ID"="Bağlantı Sorunu";
+"Text31ID"="İnternet bağlantısı çevrimdışı görünüyor ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kart adı";
+"Sub_s0_i1"="Kart adı";
+"Sub_s0_i2"="Kart adı";
+"Sub_s0_i3"="Kart adı";
+"Sub_s0_i4"="Kart adı";
+"Sub_s0_i5"="Kart adı";
+"Sub_s0_i6"="Kart adı";
+"Sub_s0_i7"="Kart adı";
+"Sub_s0_i8"="Kart adı";
+"Sub_s0_i9"="Kart adı";
+"Sub_s0_i10"="Kart adı";
+
+"Sub_s1_i0"="Kart adı";
+"Sub_s1_i1"="Kart adı";
+"Sub_s1_i2"="Kart adı";
+"Sub_s1_i3"="Kart adı";
+"Sub_s1_i4"="Kart adı";
+"Sub_s1_i5"="Kart adı";
+"Sub_s1_i6"="Kart adı";
+"Sub_s1_i7"="Kart adı";
+"Sub_s1_i8"="Kart adı";
+"Sub_s1_i9"="Kart adı";
+"Sub_s1_i10"="Kart adı";
+

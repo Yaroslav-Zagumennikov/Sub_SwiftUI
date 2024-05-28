@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Quan trọng! Không có nội dung miễn phí bên trong! Bạn phải đăng ký để truy cập nội dung và tính năng của ứng dụng. Thanh toán được tính khi xác nhận mua đăng ký.\n\n- Đăng ký sẽ tự động gia hạn trừ khi tính năng tự động gia hạn bị tắt ít nhất 24 giờ trước khi kết thúc giai đoạn hiện tại\n- Chi phí gia hạn tùy thuộc vào gói đăng ký . Gói đăng ký tiêu chuẩn của chúng tôi: đăng ký 1 tuần là 9,99 USD. Đối với các loại tiền tệ khác, giá khớp với mức giá trong Ma trận giá trên App Store\n- Đăng ký có thời gian dùng thử miễn phí sẽ tự động gia hạn thành đăng ký trả phí. Bạn có thể hủy hoặc quản lý việc tự động gia hạn bản dùng thử miễn phí bằng cách đi tới Cài đặt tài khoản sau khi mua\n- Xin lưu ý: Mọi phần chưa sử dụng trong thời gian dùng thử miễn phí ba ngày (nếu được cung cấp) sẽ bị mất khi mua đăng ký trả phí trong thời gian thời gian dùng thử miễn phí\n- Để biết bất kỳ thông tin nào khác, hãy xem chính sách quyền riêng tư và điều khoản sử dụng của chúng tôi.";
+/**/
+"restoreNoPurTit"="Không mua hàng để khôi phục";
+/**/
+"restoreNoPurSubTit"="Không có giao dịch mua trong ứng dụng nào để khôi phục.";
+/**/
+"restorePurTit"="Đã khôi phục giao dịch mua";
+/**/
+"restorePurSubTit"="Giao dịch mua hàng của bạn đã được khôi phục..";
+/**/
+"iOSButtonID"="TIẾP TỤC";
+/**/
+"iOSStart3daysTitleID"="BẮT ĐẦU 3 NGÀY MIỄN PHÍ \nSAU ĐÓ %@/TUẦN";
+
+/**/
+"LoadingID"="ĐANG TẢI";
+
+/**/
+"PrivacyID"="Chính sách bảo mật";
+
+/**/
+"restore"="Khôi phục";
+
+/**/
+"TermsID"="Điều khoản sử dụng";
+
+/**/
+"SliderID1_entrance"="văn bản văn bản văn bản văn bản văn bản văn bản văn bản"; //Текст под кнопкой
+"SliderID1tap"="Vỗ nhẹ";
+"SliderID1to"="ĐẾN";
+
+//"SliderID1_mods"="Cài đặt mod mới cho toca ngay bây giờ";
+//"SliderID1_maps"="Khám phá toàn bộ thế giới của toca";
+//"SliderID1_sets"="Nhận gói tóc và mắt độc đáo ngay bây giờ";
+//"SliderID1_characters"="Nhận bộ sưu tập nhân vật lớn nhất";
+//"SliderID1_guides"="Hãy cải thiện trò chơi toca của bạn ngay bây giờ";
+
+/**/
+"SliderID2_entrance"="VĂN BẢN TEXT VĂN BẢN TEXT VĂN BẢN TEXT VĂN BẢN VĂN BẢN";  //Текст 1
+"SliderID2sub_entrance"="Тvăn bản văn bản văn bản văn bản văn bản văn bản"; //ПодТекст 1
+
+//"SliderID2_mods"="chơi với các nhân vật độc đáo và tận hưởng";
+//"SliderID2sub_mods"="nhận các mod, ý tưởng, bộ tốt nhất và hơn thế nữa";
+//"SliderID2_maps"="xây dựng ngôi nhà mơ ước của bạn trên bản đồ Toca mới";
+//"SliderID2sub_maps"="chơi như chưa từng chơi trước đây";
+//"SliderID2_sets"="tạo bộ sưu tập ký tự lớn nhất";
+//"SliderID2sub_sets"="mở khóa tất cả các gói cho Toca";
+//"SliderID2_characters"="tạo ra những câu chuyện mới với các nhân vật khác nhau";
+//"SliderID2sub_characters"="cài đặt trong 1 lần nhấn và tận hưởng";
+//"SliderID2_guides"="nhận tất cả các mẹo hữu ích và mở khóa những bí mật ẩn giấu";
+//"SliderID2sub_guides"="bắt đầu tạo ngay bây giờ";
+
+/**/
+"SliderID3"="Bắt đầu 3 ngày miễn phí, sau đó là 4,99 USD/7 ngày"; //Текст 2
+"SliderID3sub"="Hủy bỏ bất cứ lúc nào"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="VĂN BẢN TEXT VĂN BẢN TEXT VĂN BẢN TEXT VĂN BẢN VĂN BẢN";  //Текст 3
+"SliderID4sub_entrance"="Тvăn bản văn bản văn bản văn bản văn bản văn bản"; //ПодТекст 3
+
+"TextSub4ID"="văn bản văn bản văn bản văn bản";
+"TextSub5ID"="văn bản văn bản văn bản văn bản";
+
+"TextSub2ID"="văn bản văn bản văn bản văn bản";
+"TextSub6ID"="văn bản văn bản văn bản văn bản";
+
+//"SliderID4_mods"="Tạo những câu chuyện tuyệt vời của bạn và tận hưởng";
+//"SliderID4sub_mods"="Nhận mod không giới hạn";
+//"SliderID4_maps"="Mở khóa tất cả các vị trí chỉ bằng 1 lần nhấn và chơi không giới hạn";
+//"SliderID4sub_maps"="Tận hưởng trò chơi của bạn";
+//"SliderID4_sets"="Tận hưởng đôi mắt thú vị và kiểu tóc sáng màu ngay bây giờ";
+//"SliderID4sub_sets"="Truy cập vô hạn";
+//"SliderID4_characters"="Chơi hơn bao giờ hết với các nhân vật độc đáo";
+//"SliderID4sub_characters"="Chơi không giới hạn";
+//"SliderID4_guides"="Khám phá công thức nấu ăn, gói và hơn thế nữa không giới hạn";
+//"SliderID4sub_guides"="Chơi như chưa từng có trước đây";
+/**/
+
+"SliderID5"="THU THẬP TẤT CẢ BỘ GIÁP THEO ĐỊA ĐIỂM";
+
+"SliderNoPayment"="Không thanh toán ngay bây giờ";
+
+/**/
+"Text0ID"="VĂN BẢN TEXT VĂN BẢN\nVĂN BẢN VĂN BẢN VĂN BẢN"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="VĂN BẢN TEXT VĂN BẢN\nVĂN BẢN VĂN BẢN VĂN BẢN"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Khả năng của amiibo";
+
+/**/
+"Text19ID"="Khả năng cầu chì";
+
+/**/
+"Text20ID"="Khả năng thăng thiên";
+
+/**/
+"Text21ID"="Khả năng thu hồi";
+
+/**/
+"Text22ID"="Khả năng của máy ảnh";
+
+/**/
+
+"Text30ID"="Sự cố kết nối";
+"Text31ID"="Kết nối Internet có vẻ ngoại tuyến ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Tên thẻ";
+"Sub_s0_i1"="Tên thẻ";
+"Sub_s0_i2"="Tên thẻ";
+"Sub_s0_i3"="Tên thẻ";
+"Sub_s0_i4"="Tên thẻ";
+"Sub_s0_i5"="Tên thẻ";
+"Sub_s0_i6"="Tên thẻ";
+"Sub_s0_i7"="Tên thẻ";
+"Sub_s0_i8"="Tên thẻ";
+"Sub_s0_i9"="Tên thẻ";
+"Sub_s0_i10"="Tên thẻ";
+
+"Sub_s1_i0"="Tên thẻ";
+"Sub_s1_i1"="Tên thẻ";
+"Sub_s1_i2"="Tên thẻ";
+"Sub_s1_i3"="Tên thẻ";
+"Sub_s1_i4"="Tên thẻ";
+"Sub_s1_i5"="Tên thẻ";
+"Sub_s1_i6"="Tên thẻ";
+"Sub_s1_i7"="Tên thẻ";
+"Sub_s1_i8"="Tên thẻ";
+"Sub_s1_i9"="Tên thẻ";
+"Sub_s1_i10"="Tên thẻ";
+

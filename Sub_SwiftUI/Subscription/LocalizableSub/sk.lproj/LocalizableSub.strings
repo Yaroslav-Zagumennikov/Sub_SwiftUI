@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Dôležité! Vo vnútri nie je žiadny bezplatný obsah! Ak chcete získať prístup k obsahu a funkciám aplikácie, musíte sa prihlásiť na odber. Platba sa účtuje po potvrdení nákupu predplatného.\n\n– Predplatné sa automaticky obnoví, pokiaľ automatické obnovenie nevypnete aspoň 24 hodín pred koncom aktuálneho obdobia\n– Cena za obnovenie závisí od plánu predplatného . Naše štandardné plány predplatného: 1 týždňové predplatné je 9,99 USD. V prípade ostatných mien sa cena zhoduje s cenovou úrovňou v cenovej matici App Store\n– Predplatné s bezplatným skúšobným obdobím sa automaticky obnoví na platené predplatné. Automatické obnovenie bezplatnej skúšobnej verzie môžete zrušiť alebo spravovať tak, že po zakúpení prejdete do Nastavenia účtu\n- Upozornenie: Akákoľvek nevyužitá časť trojdňového bezplatného skúšobného obdobia (ak je ponúkaná) prepadne pri zakúpení prémiového predplatného počas bezplatné skúšobné obdobie\n– Ďalšie informácie nájdete v našich pravidlách ochrany osobných údajov a podmienkach používania.";
+/**/
+"restoreNoPurTit"="Žiadne nákupy na obnovenie";
+/**/
+"restoreNoPurSubTit"="Neexistujú žiadne nákupy v aplikácii na obnovenie.";
+/**/
+"restorePurTit"="Nákupy obnovené";
+/**/
+"restorePurSubTit"="Vaše nákupy boli obnovené..";
+/**/
+"iOSButtonID"="ĎALEJ";
+/**/
+"iOSStart3daysTitleID"="ZAČNITE 3 DNI ZADARMO \nPOTOM %@/WEEK";
+
+/**/
+"LoadingID"="NAČÍTAVA";
+
+/**/
+"PrivacyID"="Zásady ochrany osobných údajov";
+
+/**/
+"restore"="Obnoviť";
+
+/**/
+"TermsID"="Podmienky používania";
+
+/**/
+"SliderID1_entrance"="text text text text text text text"; //Текст под кнопкой
+"SliderID1tap"="Klepnite";
+"SliderID1to"="do";
+
+//"SliderID1_mods"="Nainštalujte si teraz nové mody pre toca";
+//"SliderID1_maps"="Preskúmajte celý svet toca";
+//"SliderID1_sets"="Získajte jedinečné zábaly vlasov a očí";
+//"SliderID1_characters"="Získajte najväčšiu zbierku postáv";
+//"SliderID1_guides"="Vylepšite svoju hru s toca";
+
+/**/
+"SliderID2_entrance"="ТEXT TEXT TEXT TEXT ТEXT TEXT TEXT TEXT TEXT";  //Текст 1
+"SliderID2sub_entrance"="Тext text text text text text text text"; //ПодТекст 1
+
+//"SliderID2_mods"="hrajte s jedinečnými postavami a užívajte si";
+//"SliderID2sub_mods"="získajte najlepšie mody, nápady, súpravy a ďalšie";
+//"SliderID2_maps"="postavte si svoj vysnívaný dom na nových mapách Toca";
+//"SliderID2sub_maps"="hrať ako nikdy predtým";
+//"SliderID2_sets"="vytvoriť najväčšiu zbierku postáv";
+//"SliderID2sub_sets"="odomknite všetky balíčky pre Toca";
+//"SliderID2_characters"="vytvárať nové príbehy s rôznymi postavami";
+//"SliderID2sub_characters"="nainštalujte jedným klepnutím a užívajte si";
+//"SliderID2_guides"="získajte všetky užitočné tipy a odomknite skryté tajomstvá";
+//"SliderID2sub_guides"="začnite tvoriť teraz";
+
+/**/
+"SliderID3"="Začnite 3 dni zadarmo, potom 4,99 $/7 dní"; //Текст 2
+"SliderID3sub"="Zrušiť kedykoľvek"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="ТEXT TEXT TEXT TEXT ТEXT TEXT TEXT TEXT TEXT";  //Текст 3
+"SliderID4sub_entrance"="Тext text text text text text text text"; //ПодТекст 3
+
+"TextSub4ID"="Тtext text text text";
+"TextSub5ID"="Тtext text text text";
+
+"TextSub2ID"="Тtext text text text";
+"TextSub6ID"="Тtext text text text";
+
+//"SliderID4_mods"="Vytvorte si úžasné príbehy a užívajte si";
+//"SliderID4sub_mods"="Získajte neobmedzené mody";
+//"SliderID4_maps"="Odomknite všetky miesta jedným klepnutím a hrajte bez obmedzení";
+//"SliderID4sub_maps"="Užite si hru";
+//"SliderID4_sets"="Užite si zaujímavé oči a svetlé účesy";
+//"SliderID4sub_sets"="Neobmedzený prístup";
+//"SliderID4_characters"="Hrajte ako nikdy predtým s jedinečnými postavami";
+//"SliderID4sub_characters"="Hrajte bez obmedzení";
+//"SliderID4_guides"="Objavte neobmedzené recepty, balíčky a ďalšie";
+//"SliderID4sub_guides"="Hrajte ako nikdy predtým";
+/**/
+
+"SliderID5"="ZBIERAJTE VŠETKY SÚPRAVY BRNENÍ PODĽA MIEST";
+
+"SliderNoPayment"="Žiadna platba teraz";
+
+/**/
+"Text0ID"="ТEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="ТEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Schopnosť Amiibo";
+
+/**/
+"Text19ID"="Schopnosť poistky";
+
+/**/
+"Text20ID"="Vzostupová schopnosť";
+
+/**/
+"Text21ID"="Schopnosť vyvolať";
+
+/**/
+"Text22ID"="Schopnosť fotoaparátu";
+
+/**/
+
+"Text30ID"="Problém s pripojením";
+"Text31ID"="Zdá sa, že internetové pripojenie je offline ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Názov karty";
+"Sub_s0_i1"="Názov karty";
+"Sub_s0_i2"="Názov karty";
+"Sub_s0_i3"="Názov karty";
+"Sub_s0_i4"="Názov karty";
+"Sub_s0_i5"="Názov karty";
+"Sub_s0_i6"="Názov karty";
+"Sub_s0_i7"="Názov karty";
+"Sub_s0_i8"="Názov karty";
+"Sub_s0_i9"="Názov karty";
+"Sub_s0_i10"="Názov karty";
+
+"Sub_s1_i0"="Názov karty";
+"Sub_s1_i1"="Názov karty";
+"Sub_s1_i2"="Názov karty";
+"Sub_s1_i3"="Názov karty";
+"Sub_s1_i4"="Názov karty";
+"Sub_s1_i5"="Názov karty";
+"Sub_s1_i6"="Názov karty";
+"Sub_s1_i7"="Názov karty";
+"Sub_s1_i8"="Názov karty";
+"Sub_s1_i9"="Názov karty";
+"Sub_s1_i10"="Názov karty";
+

@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Tärkeä! Sisällä ei ole ilmaista sisältöä! Sinun on oltava tilannut käyttääksesi sovelluksen sisältöä ja ominaisuuksia. Maksu veloitetaan tilausvahvistuksen yhteydessä.\n\n- Tilaus uusitaan automaattisesti, ellei automaattista uusimista kytketä pois päältä vähintään 24 tuntia ennen nykyisen jakson loppua\n- Uusimishinta riippuu tilaussuunnitelmasta . Tavalliset tilaussuunnitelmamme: 1 viikon tilaus on 9,99 dollaria. Muilla valuutoilla hinta vastaa App Storen hintamatriisin hintatasoa\n- Tilaus ilmaisella kokeilujaksolla uusiutuu automaattisesti maksulliseksi tilaukseksi. Voit peruuttaa ilmaisen kokeilujakson automaattisen uusimisen tai hallita sitä siirtymällä tiliasetuksiin oston jälkeen\n- Huomaa: Kolmen päivän ilmaisen kokeilujakson käyttämättä jäänyt osa (jos tarjotaan) menetetään, kun ostat premium-tilauksen ilmainen kokeilujakso\n- Katso muut tiedot tietosuojakäytännöstämme ja käyttöehdoistamme.";
+/**/
+"restoreNoPurTit"="Ei palautettavia ostoja";
+/**/
+"restoreNoPurSubTit"="Sovelluksen sisäisiä ostoksia ei ole palautettavissa.";
+/**/
+"restorePurTit"="Ostokset palautettu";
+/**/
+"restorePurSubTit"="Ostoksesi on palautettu..";
+/**/
+"iOSButtonID"="JATKAA";
+/**/
+"iOSStart3daysTitleID"="ALOITA 3 PÄIVÄÄ ILMAISEKSI \nSIIN %@/VIIKKO";
+
+/**/
+"LoadingID"="LADATAAN";
+
+/**/
+"PrivacyID"="Tietosuojakäytäntö";
+
+/**/
+"restore"="Palauttaa";
+
+/**/
+"TermsID"="Käyttöehdot";
+
+/**/
+"SliderID1_entrance"="teksti teksti teksti teksti teksti teksti teksti teksti"; //Текст под кнопкой
+"SliderID1tap"="Napauta";
+"SliderID1to"="to";
+
+//"SliderID1_mods"="Asenna uudet modit tocaan nyt";
+//"SliderID1_maps"="Tutustu koko tocan maailmaan";
+//"SliderID1_sets"="Hanki ainutlaatuiset hius- ja silmäpakkaukset nyt";
+//"SliderID1_characters"="Hanki suurin kokoelma hahmoja";
+//"SliderID1_guides"="Paranna toca-peliäsi nyt";
+
+/**/
+"SliderID2_entrance"="TEKSTI TEKSTI TEKSTI TEKSTI TEKSTI TEKSTI TEKSTI";  //Текст 1
+"SliderID2sub_entrance"="Teksti teksti teksti teksti teksti teksti teksti"; //ПодТекст 1
+
+//"SliderID2_mods"="pelaa ainutlaatuisilla hahmoilla ja nauti";
+//"SliderID2sub_mods"="hanki parhaat modit, ideat, setit ja paljon muuta";
+//"SliderID2_maps"="rakenna unelmiesi koti uusille Toca-kartoille";
+//"SliderID2sub_maps"="pelata enemmän kuin koskaan ennen";
+//"SliderID2_sets"="luoda suurimman kokoelman hahmoja";
+//"SliderID2sub_sets"="avaa kaikki paketit Tocalle";
+//"SliderID2_characters"="luoda uusia tarinoita erilaisilla hahmoilla";
+//"SliderID2sub_characters"="asenna yhdellä napautuksella ja nauti";
+//"SliderID2_guides"="hanki kaikki hyödylliset vinkit ja avaa piilotetut salaisuudet";
+//"SliderID2sub_guides"="aloita luominen nyt";
+
+/**/
+"SliderID3"="Aloita 3 päivää ilmaiseksi, sitten 4,99 $/7 päivää"; //Текст 2
+"SliderID3sub"="Peruuta milloin tahansa"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEKSTI TEKSTI TEKSTI TEKSTI TEKSTI TEKSTI TEKSTI";  //Текст 3
+"SliderID4sub_entrance"="Teksti teksti teksti teksti teksti teksti teksti"; //ПодТекст 3
+
+"TextSub4ID"="Tekstiteksti tekstiteksti";
+"TextSub5ID"="Tekstiteksti tekstiteksti";
+
+"TextSub2ID"="Tekstiteksti tekstiteksti";
+"TextSub6ID"="Tekstiteksti tekstiteksti";
+
+//"SliderID4_mods"="Luo upeita tarinoitasi ja nauti";
+//"SliderID4sub_mods"="Hanki rajattomasti modeja";
+//"SliderID4_maps"="Avaa kaikki paikat yhdellä napautuksella ja pelaa ilman rajoituksia";
+//"SliderID4sub_maps"="Nauti pelistäsi";
+//"SliderID4_sets"="Nauti mielenkiintoisista silmistä ja kirkkaista kampauksista nyt";
+//"SliderID4sub_sets"="Rajoittamaton pääsy";
+//"SliderID4_characters"="Pelaa enemmän kuin koskaan ennen ainutlaatuisilla hahmoilla";
+//"SliderID4sub_characters"="Pelaa ilman rajoituksia";
+//"SliderID4_guides"="Löydä rajattomasti reseptejä, pakkauksia ja muuta";
+//"SliderID4sub_guides"="Pelaa kuin koskaan ennen";
+/**/
+
+"SliderID5"="KERÄÄ KAIKKI PANSSERISET PAIKKOJEN MUKAAN";
+
+"SliderNoPayment"="Ei maksua nyt";
+
+/**/
+"Text0ID"="TEKSTI TEKSTI TEKSTI\nTEKSTI TEKSTI TEKSTI"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="TEKSTI TEKSTI TEKSTI\nTEKSTI TEKSTI TEKSTI"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo kyky";
+
+/**/
+"Text19ID"="Sulakkeen kyky";
+
+/**/
+"Text20ID"="Nousukyky";
+
+/**/
+"Text21ID"="Muista kyky";
+
+/**/
+"Text22ID"="Kameran kyky";
+
+/**/
+
+"Text30ID"="Yhteysongelma";
+"Text31ID"="Internet-yhteys näyttää olevan offline-tilassa ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kortin nimi";
+"Sub_s0_i1"="Kortin nimi";
+"Sub_s0_i2"="Kortin nimi";
+"Sub_s0_i3"="Kortin nimi";
+"Sub_s0_i4"="Kortin nimi";
+"Sub_s0_i5"="Kortin nimi";
+"Sub_s0_i6"="Kortin nimi";
+"Sub_s0_i7"="Kortin nimi";
+"Sub_s0_i8"="Kortin nimi";
+"Sub_s0_i9"="Kortin nimi";
+"Sub_s0_i10"="Kortin nimi";
+
+"Sub_s1_i0"="Kortin nimi";
+"Sub_s1_i1"="Kortin nimi";
+"Sub_s1_i2"="Kortin nimi";
+"Sub_s1_i3"="Kortin nimi";
+"Sub_s1_i4"="Kortin nimi";
+"Sub_s1_i5"="Kortin nimi";
+"Sub_s1_i6"="Kortin nimi";
+"Sub_s1_i7"="Kortin nimi";
+"Sub_s1_i8"="Kortin nimi";
+"Sub_s1_i9"="Kortin nimi";
+"Sub_s1_i10"="Kortin nimi";
+

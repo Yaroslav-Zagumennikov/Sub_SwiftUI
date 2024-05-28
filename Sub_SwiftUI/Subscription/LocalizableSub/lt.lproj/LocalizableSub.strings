@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Svarbu! Viduje nėra nemokamo turinio! Turite užsiprenumeruoti, kad galėtumėte pasiekti programos turinį ir funkcijas. Mokėjimas imamas patvirtinus prenumeratos įsigijimą.\n\n- Prenumerata bus automatiškai atnaujinta, nebent automatinis atnaujinimas bus išjungtas likus bent 24 valandoms iki dabartinio laikotarpio pabaigos\n- Atnaujinimo kaina priklauso nuo prenumeratos plano . Mūsų standartiniai prenumeratos planai: 1 savaitės prenumerata kainuoja 9,99 USD. Kitomis valiutomis kaina atitinka kainų lygį „App Store Price Matrix“\n– Prenumerata su nemokamu bandomuoju laikotarpiu automatiškai atnaujinama į mokamą prenumeratą. Galite atšaukti arba tvarkyti automatinį nemokamos bandomosios versijos atnaujinimą, nuėję į paskyros nustatymus po pirkimo\n- Atkreipkite dėmesį: bet kokia nepanaudota trijų dienų nemokamo bandomojo laikotarpio dalis (jei siūloma) bus prarasta, kai perkate papildomą prenumeratą. nemokamas bandomasis laikotarpis\n- Jei reikia kitos informacijos, žr. mūsų privatumo politiką ir naudojimo sąlygas.";
+/**/
+"restoreNoPurTit"="Nėra pirkinių, kuriuos reikia atkurti";
+/**/
+"restoreNoPurSubTit"="Nėra pirkinių programoje, kurią būtų galima atkurti.";
+/**/
+"restorePurTit"="Pirkiniai atstatyti";
+/**/
+"restorePurSubTit"="Jūsų pirkiniai atkurti..";
+/**/
+"iOSButtonID"="TĘSTI";
+/**/
+"iOSStart3daysTitleID"="PRADĖKITE 3 DIENAS NEMOKAMAI \nTAI %@/SAVAITĖ";
+
+/**/
+"LoadingID"="Įkeliama";
+
+/**/
+"PrivacyID"="Privatumo politika";
+
+/**/
+"restore"="Atkurti";
+
+/**/
+"TermsID"="Naudojimo sąlygos";
+
+/**/
+"SliderID1_entrance"="teksto tekstas tekstas tekstas tekstas tekstinis tekstas"; //Текст под кнопкой
+"SliderID1tap"="Bakstelėkite";
+"SliderID1to"="į";
+
+//"SliderID1_mods"="Įdiekite naujus „toca“ modifikacijas dabar";
+//"SliderID1_maps"="Ištirkite visą tokos pasaulį";
+//"SliderID1_sets"="Gaukite unikalių plaukų ir akių paketų dabar";
+//"SliderID1_characters"="Gaukite didžiausią personažų kolekciją";
+//"SliderID1_guides"="Patobulinkite savo Toca žaidimą dabar";
+
+/**/
+"SliderID2_entrance"="TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS";  //Текст 1
+"SliderID2sub_entrance"="Тext text text text text text text text"; //ПодТекст 1
+
+//"SliderID2_mods"="žaiskite su unikaliais personažais ir mėgaukitės";
+//"SliderID2sub_mods"="Gaukite geriausių modifikacijų, idėjų, rinkinių ir kt";
+//"SliderID2_maps"="statykite savo svajonių namus naujuose Toca žemėlapiuose";
+//"SliderID2sub_maps"="žaisti kaip niekad anksčiau";
+//"SliderID2_sets"="sukurti didžiausią personažų kolekciją";
+//"SliderID2sub_sets"="atrakinkite visus „Toca“ paketus";
+//"SliderID2_characters"="kurkite naujas istorijas su skirtingais personažais";
+//"SliderID2sub_characters"="įdiekite per 1 bakstelėjimą ir mėgaukitės";
+//"SliderID2_guides"="gaukite visus naudingus patarimus ir atrakinkite paslėptas paslaptis";
+//"SliderID2sub_guides"="pradėti kurti dabar";
+
+/**/
+"SliderID3"="Pradėkite 3 dienas nemokamai, tada 4,99 USD per 7 dienas"; //Текст 2
+"SliderID3sub"="Atšaukti bet kuriuo metu"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS TEKSTAS";  //Текст 3
+"SliderID4sub_entrance"="Тext text text text text text text text"; //ПодТекст 3
+
+"TextSub4ID"="Teksto teksto tekstas";
+"TextSub5ID"="Teksto teksto tekstas";
+
+"TextSub2ID"="Teksto teksto tekstas";
+"TextSub6ID"="Teksto teksto tekstas";
+
+//"SliderID4_mods"="Kurkite savo nuostabias istorijas ir mėgaukitės";
+//"SliderID4sub_mods"="Gaukite neribotą modifikacijų skaičių";
+//"SliderID4_maps"="Atrakinkite visas vietas vienu bakstelėjimu ir žaiskite be apribojimų";
+//"SliderID4sub_maps"="Mėgaukitės žaidimu";
+//"SliderID4_sets"="Mėgaukitės įdomiomis akimis ir ryškiomis šukuosenomis dabar";
+//"SliderID4sub_sets"="Neribota prieiga";
+//"SliderID4_characters"="Žaiskite kaip niekada anksčiau su unikaliais personažais";
+//"SliderID4sub_characters"="Žaisti be apribojimų";
+//"SliderID4_guides"="Atraskite neribotą receptų, pakuočių ir kt. skaičių";
+//"SliderID4sub_guides"="Žaisk kaip niekad anksčiau";
+/**/
+
+"SliderID5"="SURINKITE VISUS ŠARVŲ RINKINYS PAGAL VIETAS";
+
+"SliderNoPayment"="Dabar nėra mokėjimo";
+
+/**/
+"Text0ID"="TEKSTO TEKSTO TEKSTAS\nTEKSTO TEKSTAS TEKSTAS"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="TEKSTO TEKSTO TEKSTAS\nTEKSTO TEKSTAS TEKSTAS"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo gebėjimas";
+
+/**/
+"Text19ID"="Saugiklio gebėjimas";
+
+/**/
+"Text20ID"="Pakilimo gebėjimas";
+
+/**/
+"Text21ID"="Galimybė prisiminti";
+
+/**/
+"Text22ID"="Kameros galimybės";
+
+/**/
+
+"Text30ID"="Ryšio problema";
+"Text31ID"="Atrodo, kad interneto ryšys neprisijungęs ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kortelės pavadinimas";
+"Sub_s0_i1"="Kortelės pavadinimas";
+"Sub_s0_i2"="Kortelės pavadinimas";
+"Sub_s0_i3"="Kortelės pavadinimas";
+"Sub_s0_i4"="Kortelės pavadinimas";
+"Sub_s0_i5"="Kortelės pavadinimas";
+"Sub_s0_i6"="Kortelės pavadinimas";
+"Sub_s0_i7"="Kortelės pavadinimas";
+"Sub_s0_i8"="Kortelės pavadinimas";
+"Sub_s0_i9"="Kortelės pavadinimas";
+"Sub_s0_i10"="Kortelės pavadinimas";
+
+"Sub_s1_i0"="Kortelės pavadinimas";
+"Sub_s1_i1"="Kortelės pavadinimas";
+"Sub_s1_i2"="Kortelės pavadinimas";
+"Sub_s1_i3"="Kortelės pavadinimas";
+"Sub_s1_i4"="Kortelės pavadinimas";
+"Sub_s1_i5"="Kortelės pavadinimas";
+"Sub_s1_i6"="Kortelės pavadinimas";
+"Sub_s1_i7"="Kortelės pavadinimas";
+"Sub_s1_i8"="Kortelės pavadinimas";
+"Sub_s1_i9"="Kortelės pavadinimas";
+"Sub_s1_i10"="Kortelės pavadinimas";
+

@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="重要的！裡面沒有免費內容！您必須訂閱才能存取該應用程式的內容和功能。確認購買訂閱後將收取費用。 \n\n- 除非在當前週期結束前至少 24 小時關閉自動續訂，否則訂閱將自動續訂\n- 續訂費用取決於訂閱方案。我們的標準訂閱方案：1 週訂閱價格為 9.99 美元。對於其他貨幣，價格與 App Store 價格矩陣中的價格水平相符\n- 具有免費試用期的訂閱會自動續訂為付費訂閱。購買後，您可以前往「帳戶設定」取消或管理免費試用的自​​動續訂\n- 請注意：在購買高級訂閱期間，三天免費試用期（如果提供）的任何未使用部分將被沒收。試用期\n- 有關任何其他信息，請參閱我們的隱私權政策和使用條款。";
+/**/
+"restoreNoPurTit"="沒有可恢復的購買";
+/**/
+"restoreNoPurSubTit"="沒有要恢復的應用程式內購買。";
+/**/
+"restorePurTit"="恢復購買";
+/**/
+"restorePurSubTit"="您的購買已恢復..";
+/**/
+"iOSButtonID"="繼續";
+/**/
+"iOSStart3daysTitleID"="開始 3 天免費\n然後 %@/週";
+
+/**/
+"LoadingID"="載入中";
+
+/**/
+"PrivacyID"="隱私權政策";
+
+/**/
+"restore"="恢復";
+
+/**/
+"TermsID"="使用條款";
+
+/**/
+"SliderID1_entrance"="文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字"; //Текст под кнопкой
+"SliderID1tap"="輕敲";
+"SliderID1to"="到";
+
+//"SliderID1_mods"="立即為 toca 安裝新模組";
+//"SliderID1_maps"="探索託卡的整個世界";
+//"SliderID1_sets"="立即獲得獨特的毛髮和眼睛包";
+//"SliderID1_characters"="獲得最大的角色集合";
+//"SliderID1_guides"="立即改進您的託卡遊戲";
+
+/**/
+"SliderID2_entrance"="TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT";  //Текст 1
+"SliderID2sub_entrance"="文本文本文本文字文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本本文本文本文本文本文本文本文本文本"; //ПодТекст 1
+
+//"SliderID2_mods"="與獨特的角色一起玩耍並享受";
+//"SliderID2sub_mods"="獲得最好的模組、創意、套裝等";
+//"SliderID2_maps"="在新的託卡地圖上建造你的夢想家園";
+//"SliderID2sub_maps"="玩得前所未有";
+//"SliderID2_sets"="創建最大的角色集合";
+//"SliderID2sub_sets"="解鎖託卡的所有包";
+//"SliderID2_characters"="用不同的角色創造新的故事";
+//"SliderID2sub_characters"="一鍵安裝並享受";
+//"SliderID2_guides"="獲取所有有用的提示並解鎖隱藏的秘密";
+//"SliderID2sub_guides"="現在開始創作";
+
+/**/
+"SliderID3"="開始 3 天免費，然後 4.99 美元/7 天"; //Текст 2
+"SliderID3sub"="隨時取消"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT";  //Текст 3
+"SliderID4sub_entrance"="文本文本文本文字文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本本文本文本文本文本文本文本文本文本"; //ПодТекст 3
+
+"TextSub4ID"="文本文本文本文本";
+"TextSub5ID"="文本文本文本文本";
+
+"TextSub2ID"="文本文本文本文本";
+"TextSub6ID"="文本文本文本文本";
+
+//"SliderID4_mods"="創造你的精彩故事並享受";
+//"SliderID4sub_mods"="獲得無限模組";
+//"SliderID4_maps"="一鍵解鎖所有地點，無限制";
+//"SliderID4sub_maps"="享受你的遊戲";
+//"SliderID4_sets"="現在享受有趣的眼睛和明亮的髮型";
+//"SliderID4sub_sets"="無限制訪問";
+//"SliderID4_characters"="與獨特的角色一起玩前所未有的遊戲";
+//"SliderID4sub_characters"="暢玩無極限";
+//"SliderID4_guides"="發現無限的食譜、套餐等";
+//"SliderID4sub_guides"="以前所未有的方式玩耍";
+/**/
+
+"SliderID5"="按地點收集所有盔甲套裝";
+
+"SliderNoPayment"="現在沒有付款";
+
+/**/
+"Text0ID"="文本文本文本\n文本文本文本文本文本"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="文本文本文本\n文本文本文本文本文本"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo能力";
+
+/**/
+"Text19ID"="熔斷能力";
+
+/**/
+"Text20ID"="提升能力";
+
+/**/
+"Text21ID"="回憶能力";
+
+/**/
+"Text22ID"="拍照能力";
+
+/**/
+
+"Text30ID"="連線問題";
+"Text31ID"="網路連線似乎已離線 ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="卡名";
+"Sub_s0_i1"="卡名";
+"Sub_s0_i2"="卡名";
+"Sub_s0_i3"="卡名";
+"Sub_s0_i4"="卡名";
+"Sub_s0_i5"="卡名";
+"Sub_s0_i6"="卡名";
+"Sub_s0_i7"="卡名";
+"Sub_s0_i8"="卡名";
+"Sub_s0_i9"="卡名";
+"Sub_s0_i10"="卡名";
+
+"Sub_s1_i0"="卡名";
+"Sub_s1_i1"="卡名";
+"Sub_s1_i2"="卡名";
+"Sub_s1_i3"="卡名";
+"Sub_s1_i4"="卡名";
+"Sub_s1_i5"="卡名";
+"Sub_s1_i6"="卡名";
+"Sub_s1_i7"="卡名";
+"Sub_s1_i8"="卡名";
+"Sub_s1_i9"="卡名";
+"Sub_s1_i10"="卡名";
+

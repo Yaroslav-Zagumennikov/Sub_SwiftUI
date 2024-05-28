@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID" = "Important! There is no free content inside! You must be subscribed to access the app’s content and features. Payment is charged upon confirmation of purchase of the subscription.\n\n- Subscription will auto-renew unless auto-renew is turned off at least 24 hours before the end of the current period\n- The renewal cost depends on the subscription plan. Our standard subscription plans: 1 week subscription is $ 9.99. For other currencies, the price matches the price level in the App Store Price Matrix\n- Subscription with a free trial period automatically renews to a paid subscription. You can cancel or manage the automatic renewal of the free trial by going to your Account Settings after purchase\n- Please note: Any unused portion of the three-day free trial period (if offered) will be forfeited when purchasing a premium subscription during the free trial period\n- For any other information, see our privacy policy and terms of use.";
+/**/
+"restoreNoPurTit" = "No Purchases to Restore";
+/**/
+"restoreNoPurSubTit" = "There are no in-app purchases to restore.";
+/**/
+"restorePurTit" = "Purchases Restored";
+/**/
+"restorePurSubTit" = "Your purchases have been restored..";
+/**/
+"iOSButtonID" = "CONTINUE";
+/**/
+"iOSStart3daysTitleID" = "START 3-DAYS FOR FREE \nTHEN %@/WEEK";
+
+/**/
+"LoadingID" = "LOADING";
+
+/**/
+"PrivacyID" = "Privacy Policy";
+
+/**/
+"restore" = "Restore";
+
+/**/
+"TermsID" = "Terms of Use";
+
+/**/
+"SliderID1_entrance" = "text text text text text text text"; //Текст под кнопкой
+"SliderID1tap" = "Tap";
+"SliderID1to" = "to";
+
+//"SliderID1_mods" = "Install new mods for toca now";
+//"SliderID1_maps" = "Explore the whole world of toca";
+//"SliderID1_sets" = "Get unique hairs & eyes packs now";
+//"SliderID1_characters" = "Get the biggest collection of characters";
+//"SliderID1_guides" = "Improve your toca game now";
+
+/**/
+"SliderID2_entrance" = "ТEXT TEXT TEXT TEXT ТEXT TEXT TEXT TEXT TEXT";  //Текст 1
+"SliderID2sub_entrance" = "Тext text text text text text text"; //ПодТекст 1
+
+//"SliderID2_mods" = "play with unique characters & enjoy";
+//"SliderID2sub_mods" = "get the best mods, ideas, sets & more";
+//"SliderID2_maps" = "build your dream home on the new Toca maps";
+//"SliderID2sub_maps" = "play like never before";
+//"SliderID2_sets" = "create the largest collection of characters";
+//"SliderID2sub_sets" = "unlock all packs for Toca";
+//"SliderID2_characters" = "create new stories with different characters";
+//"SliderID2sub_characters" = "install in 1 tap & enjoy";
+//"SliderID2_guides" = "get all the useful tips & unlock hidden secrets";
+//"SliderID2sub_guides" = "start creating now";
+
+/**/
+"SliderID3" = "Start 3 days for free, then $4.99/7 days"; //Текст 2
+"SliderID3sub" = "Cancel at any time"; //ПодТекст 2
+/**/
+"SliderID4_entrance" = "ТEXT TEXT TEXT TEXT ТEXT TEXT TEXT TEXT TEXT";  //Текст 3
+"SliderID4sub_entrance" = "Тext text text text text text text"; //ПодТекст 3
+
+"TextSub4ID" = "Тext text text text";
+"TextSub5ID" = "Тext text text text";
+
+"TextSub2ID" = "Тext text text text";
+"TextSub6ID" = "Тext text text text";
+
+//"SliderID4_mods" = "Create your amazing stories & enjoy";
+//"SliderID4sub_mods" = "Get unlimited mods";
+//"SliderID4_maps" = "Unlock all locations in 1 tap & play without limits";
+//"SliderID4sub_maps" = "Enjoy your game";
+//"SliderID4_sets" = "Enjoy interesting eyes and bright hairstyles now";
+//"SliderID4sub_sets" = "Unlimited access";
+//"SliderID4_characters" = "Play like never before with unique characters";
+//"SliderID4sub_characters" = "Play without limits";
+//"SliderID4_guides" = "Discover unlimited recipes, packs & more";
+//"SliderID4sub_guides" = "Play like never before";
+/**/
+
+"SliderID5" = "COLLECT ALL ARMOR SETS BY LOCATIONS";
+
+"SliderNoPayment" = "No Payment Now";
+
+/**/
+"Text0ID" = "ТEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID" = "ТEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID" = "Amiibo ability";
+
+/**/
+"Text19ID" = "Fuse ability";
+
+/**/
+"Text20ID" = "Ascend ability";
+
+/**/
+"Text21ID" = "Recall ability";
+
+/**/
+"Text22ID" = "Camera ability";
+
+/**/
+
+"Text30ID" = "Connectivity Issue";
+"Text31ID" = "Internet connection appears to be offline ☹️";
+
+
+/**/
+
+"Sub_s0_i0" = "Card name";
+"Sub_s0_i1" = "Card name";
+"Sub_s0_i2" = "Card name";
+"Sub_s0_i3" = "Card name";
+"Sub_s0_i4" = "Card name";
+"Sub_s0_i5" = "Card name";
+"Sub_s0_i6" = "Card name";
+"Sub_s0_i7" = "Card name";
+"Sub_s0_i8" = "Card name";
+"Sub_s0_i9" = "Card name";
+"Sub_s0_i10" = "Card name";
+
+"Sub_s1_i0" = "Card name";
+"Sub_s1_i1" = "Card name";
+"Sub_s1_i2" = "Card name";
+"Sub_s1_i3" = "Card name";
+"Sub_s1_i4" = "Card name";
+"Sub_s1_i5" = "Card name";
+"Sub_s1_i6" = "Card name";
+"Sub_s1_i7" = "Card name";
+"Sub_s1_i8" = "Card name";
+"Sub_s1_i9" = "Card name";
+"Sub_s1_i10" = "Card name";
+

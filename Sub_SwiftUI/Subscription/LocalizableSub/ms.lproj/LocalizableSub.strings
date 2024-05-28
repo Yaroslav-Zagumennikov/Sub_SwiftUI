@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Penting! Tiada kandungan percuma di dalamnya! Anda mesti melanggan untuk mengakses kandungan dan ciri apl. Bayaran dikenakan selepas pengesahan pembelian langganan.\n\n- Langganan akan diperbaharui secara automatik melainkan pembaharuan automatik dimatikan sekurang-kurangnya 24 jam sebelum tamat tempoh semasa\n- Kos pembaharuan bergantung pada pelan langganan . Pelan langganan standard kami: Langganan 1 minggu ialah $ 9.99. Untuk mata wang lain, harga sepadan dengan tahap harga dalam Matriks Harga App Store\n- Langganan dengan tempoh percubaan percuma diperbaharui secara automatik kepada langganan berbayar. Anda boleh membatalkan atau mengurus pembaharuan automatik percubaan percuma dengan pergi ke Tetapan Akaun anda selepas pembelian\n- Sila ambil perhatian: Mana-mana bahagian yang tidak digunakan dalam tempoh percubaan percuma tiga hari (jika ditawarkan) akan dibatalkan apabila membeli langganan premium semasa tempoh percubaan percuma\n- Untuk sebarang maklumat lain, lihat dasar privasi dan syarat penggunaan kami.";
+/**/
+"restoreNoPurTit"="Tiada Pembelian untuk Dipulihkan";
+/**/
+"restoreNoPurSubTit"="Tiada pembelian dalam apl untuk dipulihkan.";
+/**/
+"restorePurTit"="Pembelian Dipulihkan";
+/**/
+"restorePurSubTit"="Pembelian anda telah dipulihkan..";
+/**/
+"iOSButtonID"="TERUSKAN";
+/**/
+"iOSStart3daysTitleID"="MULAKAN 3 HARI SECARA PERCUMA \nKEMUDIAN %@/MINGGU";
+
+/**/
+"LoadingID"="MEMBUAT";
+
+/**/
+"PrivacyID"="Dasar Privasi";
+
+/**/
+"restore"="Pulihkan";
+
+/**/
+"TermsID"="Syarat Penggunaan";
+
+/**/
+"SliderID1_entrance"="teks teks teks teks teks teks teks"; //Текст под кнопкой
+"SliderID1tap"="Ketik";
+"SliderID1to"="kepada";
+
+//"SliderID1_mods"="Pasang mod baharu untuk toca sekarang";
+//"SliderID1_maps"="Terokai seluruh dunia toca";
+//"SliderID1_sets"="Dapatkan pek rambut & mata yang unik sekarang";
+//"SliderID1_characters"="Dapatkan koleksi watak terbesar";
+//"SliderID1_guides"="Tingkatkan permainan toca anda sekarang";
+
+/**/
+"SliderID2_entrance"="TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS";  //Текст 1
+"SliderID2sub_entrance"="Teks teks teks teks teks teks teks teks"; //ПодТекст 1
+
+//"SliderID2_mods"="bermain dengan watak unik & nikmati";
+//"SliderID2sub_mods"="dapatkan mod, idea, set terbaik & banyak lagi";
+//"SliderID2_maps"="bina rumah impian anda pada peta Toca baharu";
+//"SliderID2sub_maps"="bermain seperti tidak pernah sebelum ini";
+//"SliderID2_sets"="mencipta koleksi watak terbesar";
+//"SliderID2sub_sets"="buka kunci semua pek untuk Toca";
+//"SliderID2_characters"="cipta cerita baharu dengan watak yang berbeza";
+//"SliderID2sub_characters"="pasang dalam 1 ketik & nikmati";
+//"SliderID2_guides"="dapatkan semua petua berguna & buka rahsia tersembunyi";
+//"SliderID2sub_guides"="mula mencipta sekarang";
+
+/**/
+"SliderID3"="Mulakan 3 hari secara percuma, kemudian $4.99/7 hari"; //Текст 2
+"SliderID3sub"="Batalkan pada bila-bila masa"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS TEKS";  //Текст 3
+"SliderID4sub_entrance"="Teks teks teks teks teks teks teks teks"; //ПодТекст 3
+
+"TextSub4ID"="Тeks teks teks teks";
+"TextSub5ID"="Тeks teks teks teks";
+
+"TextSub2ID"="Тeks teks teks teks";
+"TextSub6ID"="Тeks teks teks teks";
+
+//"SliderID4_mods"="Cipta cerita hebat anda & nikmati";
+//"SliderID4sub_mods"="Dapatkan mod tanpa had";
+//"SliderID4_maps"="Buka kunci semua lokasi dalam 1 ketik & main tanpa had";
+//"SliderID4sub_maps"="Nikmati permainan anda";
+//"SliderID4_sets"="Nikmati mata yang menarik dan gaya rambut yang cerah sekarang";
+//"SliderID4sub_sets"="Akses tanpa had";
+//"SliderID4_characters"="Bermain seperti tidak pernah sebelum ini dengan watak unik";
+//"SliderID4sub_characters"="Bermain tanpa had";
+//"SliderID4_guides"="Temui resipi, pek & banyak lagi tanpa had";
+//"SliderID4sub_guides"="Bermain seperti tidak pernah sebelum ini";
+/**/
+
+"SliderID5"="KUMPUL SEMUA SET PERISAI MENGIKUT LOKASI";
+
+"SliderNoPayment"="Tiada Pembayaran Sekarang";
+
+/**/
+"Text0ID"="TEKS TEKS TEKS\nTEKS TEKS TEKS TEKS"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="TEKS TEKS TEKS\nTEKS TEKS TEKS TEKS"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Keupayaan Amiibo";
+
+/**/
+"Text19ID"="Keupayaan fius";
+
+/**/
+"Text20ID"="Keupayaan naik";
+
+/**/
+"Text21ID"="Kebolehan mengingat kembali";
+
+/**/
+"Text22ID"="Keupayaan kamera";
+
+/**/
+
+"Text30ID"="Isu Ketersambungan";
+"Text31ID"="Sambungan Internet kelihatan di luar talian ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Nama kad";
+"Sub_s0_i1"="Nama kad";
+"Sub_s0_i2"="Nama kad";
+"Sub_s0_i3"="Nama kad";
+"Sub_s0_i4"="Nama kad";
+"Sub_s0_i5"="Nama kad";
+"Sub_s0_i6"="Nama kad";
+"Sub_s0_i7"="Nama kad";
+"Sub_s0_i8"="Nama kad";
+"Sub_s0_i9"="Nama kad";
+"Sub_s0_i10"="Nama kad";
+
+"Sub_s1_i0"="Nama kad";
+"Sub_s1_i1"="Nama kad";
+"Sub_s1_i2"="Nama kad";
+"Sub_s1_i3"="Nama kad";
+"Sub_s1_i4"="Nama kad";
+"Sub_s1_i5"="Nama kad";
+"Sub_s1_i6"="Nama kad";
+"Sub_s1_i7"="Nama kad";
+"Sub_s1_i8"="Nama kad";
+"Sub_s1_i9"="Nama kad";
+"Sub_s1_i10"="Nama kad";
+

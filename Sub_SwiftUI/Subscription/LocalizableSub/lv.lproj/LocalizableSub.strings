@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Svarīgs! Iekšā nav bezmaksas satura! Lai piekļūtu lietotnes saturam un funkcijām, jums ir jābūt abonētam. Maksājums tiek iekasēts pēc abonementa iegādes apstiprināšanas.\n\n- Abonements tiks automātiski atjaunots, ja vien automātiskā atjaunošana netiks izslēgta vismaz 24 stundas pirms pašreizējā perioda beigām.\n- Atjaunošanas maksa ir atkarīga no abonēšanas plāna. . Mūsu standarta abonēšanas plāni: 1 nedēļas abonements ir USD 9,99. Citām valūtām cena atbilst cenu līmenim App Store cenu matricā\n- Abonements ar bezmaksas izmēģinājuma periodu automātiski tiek atjaunots uz maksas abonementu. Varat atcelt vai pārvaldīt bezmaksas izmēģinājuma perioda automātisko atjaunošanu, pēc pirkuma atverot sava konta iestatījumus.\n- Lūdzu, ņemiet vērā: jebkura neizmantotā trīs dienu bezmaksas izmēģinājuma perioda daļa (ja tāda tiek piedāvāta) tiks zaudēta, iegādājoties papildu abonementu laikā. bezmaksas izmēģinājuma periods\n- Lai iegūtu citu informāciju, skatiet mūsu konfidencialitātes politiku un lietošanas noteikumus.";
+/**/
+"restoreNoPurTit"="Nav pirkumu, ko atjaunot";
+/**/
+"restoreNoPurSubTit"="Nav atjaunojamo pirkumu lietotnē.";
+/**/
+"restorePurTit"="Pirkumi atjaunoti";
+/**/
+"restorePurSubTit"="Jūsu pirkumi ir atjaunoti..";
+/**/
+"iOSButtonID"="TURPINĀT";
+/**/
+"iOSStart3daysTitleID"="SĀC 3 DIENAS BEZ MAKSAS \nPĒC TAD %@/NEDĒĻĀ";
+
+/**/
+"LoadingID"="NOTIEK IELĀDE";
+
+/**/
+"PrivacyID"="Privātuma politika";
+
+/**/
+"restore"="Atjaunot";
+
+/**/
+"TermsID"="Lietošanas noteikumi";
+
+/**/
+"SliderID1_entrance"="teksta teksts teksts teksts teksta teksta teksts"; //Текст под кнопкой
+"SliderID1tap"="Krāns";
+"SliderID1to"="uz";
+
+//"SliderID1_mods"="Instalējiet jaunus toca modifikācijas tūlīt";
+//"SliderID1_maps"="Izpētiet visu tokas pasauli";
+//"SliderID1_sets"="Iegūstiet unikālus matu un acu komplektus tūlīt";
+//"SliderID1_characters"="Iegūstiet lielāko varoņu kolekciju";
+//"SliderID1_guides"="Uzlabojiet savu toca spēli tūlīt";
+
+/**/
+"SliderID2_entrance"="TEKSTA TEKSTA TEKSTS TEKSTS TEKSTA TEKSTA TEKSTS TEKSTS TEKSTS";  //Текст 1
+"SliderID2sub_entrance"="Teksta teksta teksts teksta teksta teksts"; //ПодТекст 1
+
+//"SliderID2_mods"="spēlējiet ar unikāliem varoņiem un izbaudiet";
+//"SliderID2sub_mods"="iegūstiet labākos modeļus, idejas, komplektus un daudz ko citu";
+//"SliderID2_maps"="izveidojiet savu sapņu māju jaunajās Toca kartēs";
+//"SliderID2sub_maps"="spēlēt kā nekad agrāk";
+//"SliderID2_sets"="izveidot lielāko rakstzīmju kolekciju";
+//"SliderID2sub_sets"="atbloķējiet visus Toca iepakojumus";
+//"SliderID2_characters"="izveidot jaunus stāstus ar dažādiem varoņiem";
+//"SliderID2sub_characters"="instalējiet ar vienu pieskārienu un izbaudiet";
+//"SliderID2_guides"="saņemiet visus noderīgos padomus un atbloķējiet slēptos noslēpumus";
+//"SliderID2sub_guides"="sāciet veidot tagad";
+
+/**/
+"SliderID3"="Sāciet 3 dienas bez maksas, pēc tam — 4,99 $/7 dienas"; //Текст 2
+"SliderID3sub"="Atcelt jebkurā laikā"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEKSTA TEKSTA TEKSTS TEKSTS TEKSTA TEKSTA TEKSTS TEKSTS TEKSTS";  //Текст 3
+"SliderID4sub_entrance"="Teksta teksta teksts teksta teksta teksts"; //ПодТекст 3
+
+"TextSub4ID"="Teksta teksta teksta teksts";
+"TextSub5ID"="Teksta teksta teksta teksts";
+
+"TextSub2ID"="Teksta teksta teksta teksts";
+"TextSub6ID"="Teksta teksta teksta teksts";
+
+//"SliderID4_mods"="Izveidojiet savus pārsteidzošos stāstus un izbaudiet";
+//"SliderID4sub_mods"="Iegūstiet neierobežotu modifikāciju skaitu";
+//"SliderID4_maps"="Atbloķējiet visas atrašanās vietas ar vienu pieskārienu un spēlējiet bez ierobežojumiem";
+//"SliderID4sub_maps"="Izbaudi savu spēli";
+//"SliderID4_sets"="Izbaudiet interesantas acis un spilgtas frizūras tagad";
+//"SliderID4sub_sets"="Neierobežota piekļuve";
+//"SliderID4_characters"="Spēlējiet kā nekad agrāk ar unikāliem varoņiem";
+//"SliderID4sub_characters"="Spēlējiet bez ierobežojumiem";
+//"SliderID4_guides"="Atklājiet neierobežotas receptes, iepakojumus un daudz ko citu";
+//"SliderID4sub_guides"="Spēlējiet kā vēl nekad";
+/**/
+
+"SliderID5"="SAVĀK VISUS BRUŅU KOMPLEKTS PĒC ATRAŠANĀS VIETAS";
+
+"SliderNoPayment"="Tagad nav jāmaksā";
+
+/**/
+"Text0ID"="TEKSTA TEKSTA TEKSTS\nTEKSTA TEKSTA TEKSTS"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="TEKSTA TEKSTA TEKSTS\nTEKSTA TEKSTA TEKSTS"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo spēja";
+
+/**/
+"Text19ID"="Drošinātāja spēja";
+
+/**/
+"Text20ID"="Pacelšanās spēja";
+
+/**/
+"Text21ID"="Atsaukt spējas";
+
+/**/
+"Text22ID"="Kameras spēja";
+
+/**/
+
+"Text30ID"="Savienojamības problēma";
+"Text31ID"="Šķiet, ka interneta savienojums ir bezsaistē ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kartes nosaukums";
+"Sub_s0_i1"="Kartes nosaukums";
+"Sub_s0_i2"="Kartes nosaukums";
+"Sub_s0_i3"="Kartes nosaukums";
+"Sub_s0_i4"="Kartes nosaukums";
+"Sub_s0_i5"="Kartes nosaukums";
+"Sub_s0_i6"="Kartes nosaukums";
+"Sub_s0_i7"="Kartes nosaukums";
+"Sub_s0_i8"="Kartes nosaukums";
+"Sub_s0_i9"="Kartes nosaukums";
+"Sub_s0_i10"="Kartes nosaukums";
+
+"Sub_s1_i0"="Kartes nosaukums";
+"Sub_s1_i1"="Kartes nosaukums";
+"Sub_s1_i2"="Kartes nosaukums";
+"Sub_s1_i3"="Kartes nosaukums";
+"Sub_s1_i4"="Kartes nosaukums";
+"Sub_s1_i5"="Kartes nosaukums";
+"Sub_s1_i6"="Kartes nosaukums";
+"Sub_s1_i7"="Kartes nosaukums";
+"Sub_s1_i8"="Kartes nosaukums";
+"Sub_s1_i9"="Kartes nosaukums";
+"Sub_s1_i10"="Kartes nosaukums";
+

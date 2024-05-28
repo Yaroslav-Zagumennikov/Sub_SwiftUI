@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Important! No hi ha contingut gratuït dins! Has d'estar subscrit per accedir al contingut i les funcions de l'aplicació. El pagament es cobra en confirmar la compra de la subscripció.\n\n- La subscripció es renovarà automàticament tret que la renovació automàtica estigui desactivada almenys 24 hores abans del final del període actual\n- El cost de la renovació depèn del pla de subscripció . Els nostres plans de subscripció estàndard: la subscripció d'1 setmana és de 9,99 $. Per a altres monedes, el preu coincideix amb el nivell de preus de la matriu de preus de l'App Store\n- La subscripció amb un període de prova gratuït es renova automàticament a una subscripció de pagament. Podeu cancel·lar o gestionar la renovació automàtica de la prova gratuïta si aneu a la configuració del vostre compte després de la compra\n- Tingueu en compte: qualsevol part no utilitzada del període de prova gratuïta de tres dies (si s'ofereix) es perdrà en comprar una subscripció premium durant el període de prova gratuït\n- Per a qualsevol altra informació, consulteu la nostra política de privadesa i les condicions d'ús.";
+/**/
+"restoreNoPurTit"="No hi ha compres per restaurar";
+/**/
+"restoreNoPurSubTit"="No hi ha compres a l'aplicació per restaurar.";
+/**/
+"restorePurTit"="Compres restaurades";
+/**/
+"restorePurSubTit"="Les teves compres s'han restaurat..";
+/**/
+"iOSButtonID"="CONTINUAR";
+/**/
+"iOSStart3daysTitleID"="COMENÇA 3 DIES GRATUÏT \nDesprés %@/SETMANA";
+
+/**/
+"LoadingID"="CÀRREGA";
+
+/**/
+"PrivacyID"="Política de privacitat";
+
+/**/
+"restore"="Restaurar";
+
+/**/
+"TermsID"="Condicions d'ús";
+
+/**/
+"SliderID1_entrance"="text text text text text text text"; //Текст под кнопкой
+"SliderID1tap"="Aixeta";
+"SliderID1to"="a";
+
+//"SliderID1_mods"="Instal·leu nous mods per a toca ara";
+//"SliderID1_maps"="Explora tot el món de la toca";
+//"SliderID1_sets"="Aconsegueix ara paquets de cabells i ulls únics";
+//"SliderID1_characters"="Aconsegueix la col·lecció de personatges més gran";
+//"SliderID1_guides"="Millora el teu joc de toca ara";
+
+/**/
+"SliderID2_entrance"="TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT";  //Текст 1
+"SliderID2sub_entrance"="Text text text text text text text"; //ПодТекст 1
+
+//"SliderID2_mods"="Juga amb personatges únics i gaudeix";
+//"SliderID2sub_mods"="obteniu les millors modificacions, idees, conjunts i molt més";
+//"SliderID2_maps"="construeix la casa dels teus somnis amb els nous mapes de Toca";
+//"SliderID2sub_maps"="jugar com mai";
+//"SliderID2_sets"="crear la col·lecció més gran de personatges";
+//"SliderID2sub_sets"="desbloqueja tots els paquets per a Toca";
+//"SliderID2_characters"="crear noves històries amb diferents personatges";
+//"SliderID2sub_characters"="instal·la en 1 toc i gaudeix";
+//"SliderID2_guides"="rep tots els consells útils i desbloqueja secrets ocults";
+//"SliderID2sub_guides"="començar a crear ara";
+
+/**/
+"SliderID3"="Comença 3 dies gratis i després 4,99 $/7 dies"; //Текст 2
+"SliderID3sub"="Cancel·la en qualsevol moment"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT";  //Текст 3
+"SliderID4sub_entrance"="Text text text text text text text"; //ПодТекст 3
+
+"TextSub4ID"="Text text text text";
+"TextSub5ID"="Text text text text";
+
+"TextSub2ID"="Text text text text";
+"TextSub6ID"="Text text text text";
+
+//"SliderID4_mods"="Crea les teves històries increïbles i gaudeix";
+//"SliderID4sub_mods"="Obteniu mods il·limitats";
+//"SliderID4_maps"="Desbloqueja totes les ubicacions en 1 toc i juga sense límits";
+//"SliderID4sub_maps"="Gaudeix del teu joc";
+//"SliderID4_sets"="Gaudeix d'ulls interessants i pentinats brillants ara";
+//"SliderID4sub_sets"="Accés il·limitat";
+//"SliderID4_characters"="Juga com mai amb personatges únics";
+//"SliderID4sub_characters"="Juga sense límits";
+//"SliderID4_guides"="Descobriu receptes, paquets i molt més il·limitats";
+//"SliderID4sub_guides"="Juga com mai";
+/**/
+
+"SliderID5"="RECOLLEU TOTS ELS CONJUNTS D'ARMATURES PER UBICACIONS";
+
+"SliderNoPayment"="Sense pagament ara";
+
+/**/
+"Text0ID"="TEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="TEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Habilitat amiibo";
+
+/**/
+"Text19ID"="Capacitat de fusible";
+
+/**/
+"Text20ID"="Capacitat d'ascens";
+
+/**/
+"Text21ID"="Capacitat de recordar";
+
+/**/
+"Text22ID"="Capacitat de càmera";
+
+/**/
+
+"Text30ID"="Problema de connectivitat";
+"Text31ID"="La connexió a Internet sembla estar fora de línia ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Nom de la targeta";
+"Sub_s0_i1"="Nom de la targeta";
+"Sub_s0_i2"="Nom de la targeta";
+"Sub_s0_i3"="Nom de la targeta";
+"Sub_s0_i4"="Nom de la targeta";
+"Sub_s0_i5"="Nom de la targeta";
+"Sub_s0_i6"="Nom de la targeta";
+"Sub_s0_i7"="Nom de la targeta";
+"Sub_s0_i8"="Nom de la targeta";
+"Sub_s0_i9"="Nom de la targeta";
+"Sub_s0_i10"="Nom de la targeta";
+
+"Sub_s1_i0"="Nom de la targeta";
+"Sub_s1_i1"="Nom de la targeta";
+"Sub_s1_i2"="Nom de la targeta";
+"Sub_s1_i3"="Nom de la targeta";
+"Sub_s1_i4"="Nom de la targeta";
+"Sub_s1_i5"="Nom de la targeta";
+"Sub_s1_i6"="Nom de la targeta";
+"Sub_s1_i7"="Nom de la targeta";
+"Sub_s1_i8"="Nom de la targeta";
+"Sub_s1_i9"="Nom de la targeta";
+"Sub_s1_i10"="Nom de la targeta";
+

@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Ważny! W środku nie ma darmowej zawartości! Aby uzyskać dostęp do treści i funkcji aplikacji, musisz mieć subskrypcję. Płatność jest pobierana po potwierdzeniu zakupu subskrypcji.\n\n- Subskrypcja zostanie automatycznie odnowiona, chyba że automatyczne odnawianie zostanie wyłączone co najmniej 24 godziny przed końcem bieżącego okresu\n- Koszt odnowienia zależy od planu subskrypcji . Nasze standardowe plany subskrypcji: 1-tygodniowa subskrypcja kosztuje 9,99 USD. W przypadku innych walut cena jest zgodna z poziomem cen w Tablicy cen App Store\n- Subskrypcja z bezpłatnym okresem próbnym automatycznie odnawia się na subskrypcję płatną. Możesz anulować lub zarządzać automatycznym przedłużeniem bezpłatnego okresu próbnego, przechodząc do Ustawień konta po zakupie\n- Uwaga: jakakolwiek niewykorzystana część trzydniowego bezpłatnego okresu próbnego (jeśli jest oferowany) przepadnie w przypadku zakupu subskrypcji premium w okresie bezpłatny okres próbny\n- Aby uzyskać inne informacje, zapoznaj się z naszą polityką prywatności i warunkami użytkowania.";
+/**/
+"restoreNoPurTit"="Brak zakupów do przywrócenia";
+/**/
+"restoreNoPurSubTit"="Nie ma zakupów w aplikacji do przywrócenia.";
+/**/
+"restorePurTit"="Zakupy przywrócone";
+/**/
+"restorePurSubTit"="Twoje zakupy zostały przywrócone..";
+/**/
+"iOSButtonID"="KONTYNUOWAĆ";
+/**/
+"iOSStart3daysTitleID"="ROZPOCZNIJ 3 DNI ZA DARMO \nNASTĘPNIE %@/TYDZIEŃ";
+
+/**/
+"LoadingID"="ŁADOWANIE";
+
+/**/
+"PrivacyID"="Polityka prywatności";
+
+/**/
+"restore"="Przywrócić";
+
+/**/
+"TermsID"="Warunki korzystania";
+
+/**/
+"SliderID1_entrance"="tekst tekst tekst tekst tekst tekst tekst"; //Текст под кнопкой
+"SliderID1tap"="Uzyskiwać";
+"SliderID1to"="Do";
+
+//"SliderID1_mods"="Zainstaluj teraz nowe mody dla Toca";
+//"SliderID1_maps"="Poznaj cały świat toca";
+//"SliderID1_sets"="Zdobądź teraz wyjątkowe pakiety włosów i oczu";
+//"SliderID1_characters"="Zdobądź największą kolekcję postaci";
+//"SliderID1_guides"="Ulepsz teraz swoją grę w toca";
+
+/**/
+"SliderID2_entrance"="TEKST TEKST TEKST TEKST ТTEKST TEKST TEKST TEKST TEKST";  //Текст 1
+"SliderID2sub_entrance"="Tekst tekst tekst tekst tekst tekst tekst"; //ПодТекст 1
+
+//"SliderID2_mods"="graj z unikalnymi postaciami i ciesz się";
+//"SliderID2sub_mods"="zdobądź najlepsze mody, pomysły, zestawy i nie tylko";
+//"SliderID2_maps"="zbuduj swój wymarzony dom na nowych mapach Toca";
+//"SliderID2sub_maps"="grać jak nigdy dotąd";
+//"SliderID2_sets"="stwórz największy zbiór postaci";
+//"SliderID2sub_sets"="odblokuj wszystkie pakiety dla Toca";
+//"SliderID2_characters"="twórz nowe historie z różnymi postaciami";
+//"SliderID2sub_characters"="zainstaluj jednym dotknięciem i ciesz się";
+//"SliderID2_guides"="uzyskaj wszystkie przydatne wskazówki i odblokuj ukryte sekrety";
+//"SliderID2sub_guides"="zacznij tworzyć już teraz";
+
+/**/
+"SliderID3"="Zacznij od 3 dni za darmo, a następnie 4,99 USD/7 dni"; //Текст 2
+"SliderID3sub"="Anuluj w dowolnym momencie"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEKST TEKST TEKST TEKST ТTEKST TEKST TEKST TEKST TEKST";  //Текст 3
+"SliderID4sub_entrance"="Tekst tekst tekst tekst tekst tekst tekst"; //ПодТекст 3
+
+"TextSub4ID"="Tekst tekst tekst tekst";
+"TextSub5ID"="Tekst tekst tekst tekst";
+
+"TextSub2ID"="Tekst tekst tekst tekst";
+"TextSub6ID"="Tekst tekst tekst tekst";
+
+//"SliderID4_mods"="Twórz niesamowite historie i ciesz się nimi";
+//"SliderID4sub_mods"="Zdobądź nieograniczoną liczbę modów";
+//"SliderID4_maps"="Odblokuj wszystkie lokalizacje jednym dotknięciem i graniem bez ograniczeń";
+//"SliderID4sub_maps"="Ciesz się grą";
+//"SliderID4_sets"="Ciesz się teraz ciekawymi oczami i jasnymi fryzurami";
+//"SliderID4sub_sets"="Nielimitowany dostęp";
+//"SliderID4_characters"="Graj jak nigdy dotąd z unikalnymi postaciami";
+//"SliderID4sub_characters"="Graj bez ograniczeń";
+//"SliderID4_guides"="Odkryj nieograniczoną liczbę przepisów, pakietów i nie tylko";
+//"SliderID4sub_guides"="Graj jak nigdy dotąd";
+/**/
+
+"SliderID5"="ZBIERZ WSZYSTKIE ZESTAWY ZBROJENIA WEDŁUG LOKALIZACJI";
+
+"SliderNoPayment"="Brak płatności teraz";
+
+/**/
+"Text0ID"="ТTEKST TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="ТTEKST TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Umiejętność Amiibo";
+
+/**/
+"Text19ID"="Możliwość bezpiecznika";
+
+/**/
+"Text20ID"="Umiejętność wznoszenia się";
+
+/**/
+"Text21ID"="Zdolność przypominania";
+
+/**/
+"Text22ID"="Możliwość aparatu";
+
+/**/
+
+"Text30ID"="Problem z łącznością";
+"Text31ID"="Połączenie internetowe wydaje się być offline ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Nazwa karty";
+"Sub_s0_i1"="Nazwa karty";
+"Sub_s0_i2"="Nazwa karty";
+"Sub_s0_i3"="Nazwa karty";
+"Sub_s0_i4"="Nazwa karty";
+"Sub_s0_i5"="Nazwa karty";
+"Sub_s0_i6"="Nazwa karty";
+"Sub_s0_i7"="Nazwa karty";
+"Sub_s0_i8"="Nazwa karty";
+"Sub_s0_i9"="Nazwa karty";
+"Sub_s0_i10"="Nazwa karty";
+
+"Sub_s1_i0"="Nazwa karty";
+"Sub_s1_i1"="Nazwa karty";
+"Sub_s1_i2"="Nazwa karty";
+"Sub_s1_i3"="Nazwa karty";
+"Sub_s1_i4"="Nazwa karty";
+"Sub_s1_i5"="Nazwa karty";
+"Sub_s1_i6"="Nazwa karty";
+"Sub_s1_i7"="Nazwa karty";
+"Sub_s1_i8"="Nazwa karty";
+"Sub_s1_i9"="Nazwa karty";
+"Sub_s1_i10"="Nazwa karty";
+

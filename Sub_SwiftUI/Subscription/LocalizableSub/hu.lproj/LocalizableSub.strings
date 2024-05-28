@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Fontos! Nincs benne ingyenes tartalom! Az alkalmazás tartalmának és funkcióinak eléréséhez elő kell fizetnie. A fizetés az előfizetés megvásárlásának megerősítésekor kerül felszámításra.\n\n- Az előfizetés automatikusan megújul, hacsak az automatikus megújítást nem kapcsolják ki legalább 24 órával az aktuális időszak vége előtt\n- A megújítási költség az előfizetési csomagtól függ . Normál előfizetési csomagjaink: 1 hetes előfizetés 9,99 USD. Más pénznemek esetén az ár megegyezik az App Store Ármátrix árszintjével.\n- Az ingyenes próbaidőszakkal rendelkező előfizetés automatikusan fizetős előfizetéssé válik. Az ingyenes próbaidőszak automatikus megújítását törölheti vagy kezelheti, ha a vásárlás után lépjen a Fiókbeállításokba.\n- Megjegyzés: A háromnapos ingyenes próbaidőszak fel nem használt része (ha van ilyen) elvész, ha prémium előfizetést vásárol az ingyenes próbaidőszak\n- Minden egyéb információért tekintse meg adatvédelmi szabályzatunkat és használati feltételeinket.";
+/**/
+"restoreNoPurTit"="Nincs visszaállítandó vásárlás";
+/**/
+"restoreNoPurSubTit"="Nincsenek visszaállítandó alkalmazáson belüli vásárlások.";
+/**/
+"restorePurTit"="Vásárlások visszaállítva";
+/**/
+"restorePurSubTit"="Vásárlásait visszaállítottuk..";
+/**/
+"iOSButtonID"="FOLYTATNI";
+/**/
+"iOSStart3daysTitleID"="START 3 NAP INGYENES \nAKKOR %@/HÉT";
+
+/**/
+"LoadingID"="BETÖLTÉS";
+
+/**/
+"PrivacyID"="Adatvédelmi irányelvek";
+
+/**/
+"restore"="visszaállítás";
+
+/**/
+"TermsID"="Használati feltételek";
+
+/**/
+"SliderID1_entrance"="szöveg szöveg szöveg szöveg szöveg szöveg szöveg szöveg"; //Текст под кнопкой
+"SliderID1tap"="Koppintson a";
+"SliderID1to"="nak nek";
+
+//"SliderID1_mods"="Telepítsen új modokat a Toca-hoz most";
+//"SliderID1_maps"="Fedezze fel a toca egész világát";
+//"SliderID1_sets"="Szerezzen be egyedi haj- és szemcsomagokat most";
+//"SliderID1_characters"="Szerezd meg a legnagyobb karaktergyűjteményt";
+//"SliderID1_guides"="Javítsd a toca játékodat most";
+
+/**/
+"SliderID2_entrance"="SZÖVEG SZÖVEG SZÖVEG SZÖVEG SZÖVEG SZÖVEG";  //Текст 1
+"SliderID2sub_entrance"="Szöveg szöveg szöveg szöveg szöveg szöveg szöveg"; //ПодТекст 1
+
+//"SliderID2_mods"="játssz egyedi karakterekkel és élvezd";
+//"SliderID2sub_mods"="Szerezd meg a legjobb modokat, ötleteket, készleteket és egyebeket";
+//"SliderID2_maps"="építse meg álmai otthonát az új Toca térképeken";
+//"SliderID2sub_maps"="játszani, mint még soha";
+//"SliderID2_sets"="hozza létre a legnagyobb karaktergyűjteményt";
+//"SliderID2sub_sets"="oldja fel a Toca összes csomagját";
+//"SliderID2_characters"="hozzon létre új történeteket különböző karakterekkel";
+//"SliderID2sub_characters"="telepítse 1 érintéssel és élvezze";
+//"SliderID2_guides"="megkapja az összes hasznos tippet és feltárja a rejtett titkokat";
+//"SliderID2sub_guides"="kezdje el most az alkotást";
+
+/**/
+"SliderID3"="Kezdje 3 napig ingyen, majd 4,99 USD/7 nap"; //Текст 2
+"SliderID3sub"="Bármikor lemondhatja"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="SZÖVEG SZÖVEG SZÖVEG SZÖVEG SZÖVEG SZÖVEG";  //Текст 3
+"SliderID4sub_entrance"="Szöveg szöveg szöveg szöveg szöveg szöveg szöveg"; //ПодТекст 3
+
+"TextSub4ID"="Тext text text text";
+"TextSub5ID"="Тext text text text";
+
+"TextSub2ID"="Тext text text text";
+"TextSub6ID"="Тext text text text";
+
+//"SliderID4_mods"="Készítse el csodálatos történeteit, és élvezze";
+//"SliderID4sub_mods"="Szerezzen be korlátlan modot";
+//"SliderID4_maps"="Nyisd meg az összes helyet 1 érintéssel és játssz korlátlanul";
+//"SliderID4sub_maps"="Élvezze a játékot";
+//"SliderID4_sets"="Élvezze az érdekes szemeket és a ragyogó frizurákat most";
+//"SliderID4sub_sets"="Korlátlan hozzáférés";
+//"SliderID4_characters"="Játssz úgy, mint még soha az egyedi karakterekkel";
+//"SliderID4sub_characters"="Játssz korlátok nélkül";
+//"SliderID4_guides"="Fedezzen fel korlátlan számú receptet, csomagot és egyebeket";
+//"SliderID4sub_guides"="Játssz úgy, mint még soha";
+/**/
+
+"SliderID5"="GYŰJJEN BE AZ ÖSSZES PÁNCÉLSZETET HELYSZÍN SZERINT";
+
+"SliderNoPayment"="Most nincs fizetés";
+
+/**/
+"Text0ID"="SZÖVEG SZÖVEG SZÖVEG\nSZÖVEG SZÖVEG SZÖVEG"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="SZÖVEG SZÖVEG SZÖVEG\nSZÖVEG SZÖVEG SZÖVEG"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo képesség";
+
+/**/
+"Text19ID"="Biztosíték képesség";
+
+/**/
+"Text20ID"="Emelkedési képesség";
+
+/**/
+"Text21ID"="Felidézési képesség";
+
+/**/
+"Text22ID"="Kamera képesség";
+
+/**/
+
+"Text30ID"="Kapcsolódási probléma";
+"Text31ID"="Úgy tűnik, az internetkapcsolat offline ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kártya neve";
+"Sub_s0_i1"="Kártya neve";
+"Sub_s0_i2"="Kártya neve";
+"Sub_s0_i3"="Kártya neve";
+"Sub_s0_i4"="Kártya neve";
+"Sub_s0_i5"="Kártya neve";
+"Sub_s0_i6"="Kártya neve";
+"Sub_s0_i7"="Kártya neve";
+"Sub_s0_i8"="Kártya neve";
+"Sub_s0_i9"="Kártya neve";
+"Sub_s0_i10"="Kártya neve";
+
+"Sub_s1_i0"="Kártya neve";
+"Sub_s1_i1"="Kártya neve";
+"Sub_s1_i2"="Kártya neve";
+"Sub_s1_i3"="Kártya neve";
+"Sub_s1_i4"="Kártya neve";
+"Sub_s1_i5"="Kártya neve";
+"Sub_s1_i6"="Kártya neve";
+"Sub_s1_i7"="Kártya neve";
+"Sub_s1_i8"="Kártya neve";
+"Sub_s1_i9"="Kártya neve";
+"Sub_s1_i10"="Kártya neve";
+

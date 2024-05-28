@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Wichtig! Es sind keine kostenlosen Inhalte enthalten! Sie müssen ein Abonnement haben, um auf die Inhalte und Funktionen der App zugreifen zu können. Die Zahlung erfolgt nach Bestätigung des Kaufs des Abonnements.\n\n- Das Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor dem Ende des aktuellen Zeitraums deaktiviert.\n- Die Kosten für die Verlängerung hängen vom Abonnementplan ab . Unsere Standardabonnements: Ein einwöchiges Abonnement kostet 9,99 $. Für andere Währungen entspricht der Preis dem Preisniveau in der App Store-Preismatrix.\n- Ein Abonnement mit einem kostenlosen Testzeitraum verlängert sich automatisch zu einem kostenpflichtigen Abonnement. Sie können die automatische Verlängerung der kostenlosen Testversion kündigen oder verwalten, indem Sie nach dem Kauf zu Ihren Kontoeinstellungen gehen.\n- Bitte beachten Sie: Jeder ungenutzte Teil der dreitägigen kostenlosen Testphase (falls angeboten) verfällt, wenn Sie währenddessen ein Premium-Abonnement erwerben der kostenlose Testzeitraum\n- Weitere Informationen finden Sie in unseren Datenschutzrichtlinien und Nutzungsbedingungen.";
+/**/
+"restoreNoPurTit"="Keine Käufe zum Wiederherstellen";
+/**/
+"restoreNoPurSubTit"="Es müssen keine In-App-Käufe wiederhergestellt werden.";
+/**/
+"restorePurTit"="Käufe wiederhergestellt";
+/**/
+"restorePurSubTit"="Ihre Einkäufe wurden wiederhergestellt.";
+/**/
+"iOSButtonID"="WEITERMACHEN";
+/**/
+"iOSStart3daysTitleID"="STARTEN SIE 3 TAGE KOSTENLOS \nDANN %@/WOCHE";
+
+/**/
+"LoadingID"="WIRD GELADEN";
+
+/**/
+"PrivacyID"="Datenschutzrichtlinie";
+
+/**/
+"restore"="Wiederherstellen";
+
+/**/
+"TermsID"="Nutzungsbedingungen";
+
+/**/
+"SliderID1_entrance"="Text Text Text Text Text Text Text Text"; //Текст под кнопкой
+"SliderID1tap"="Klopfen";
+"SliderID1to"="Zu";
+
+//"SliderID1_mods"="Installiere jetzt neue Mods für Toca";
+//"SliderID1_maps"="Entdecken Sie die ganze Welt von Toca";
+//"SliderID1_sets"="Holen Sie sich jetzt einzigartige Haar- und Augenpakete";
+//"SliderID1_characters"="Holen Sie sich die größte Sammlung an Charakteren";
+//"SliderID1_guides"="Verbessern Sie jetzt Ihr Toca-Spiel";
+
+/**/
+"SliderID2_entrance"="ТEXT TEXT TEXT TEXT ТEXT TEXT TEXT TEXT TEXT";  //Текст 1
+"SliderID2sub_entrance"="Text text text text text text text"; //ПодТекст 1
+
+//"SliderID2_mods"="Spiele mit einzigartigen Charakteren und genieße es";
+//"SliderID2sub_mods"="Holen Sie sich die besten Mods, Ideen, Sets und mehr";
+//"SliderID2_maps"="Bauen Sie Ihr Traumhaus auf den neuen Toca-Karten";
+//"SliderID2sub_maps"="Spielen Sie wie nie zuvor";
+//"SliderID2_sets"="Erstelle die größte Sammlung von Charakteren";
+//"SliderID2sub_sets"="Schalte alle Pakete für Toca frei";
+//"SliderID2_characters"="Erstelle neue Geschichten mit unterschiedlichen Charakteren";
+//"SliderID2sub_characters"="Mit nur einem Fingertipp installieren und genießen";
+//"SliderID2_guides"="Holen Sie sich alle nützlichen Tipps und enthüllen Sie verborgene Geheimnisse";
+//"SliderID2sub_guides"="Beginnen Sie jetzt mit der Erstellung";
+
+/**/
+"SliderID3"="Beginnen Sie 3 Tage kostenlos, dann 4,99 $/7 Tage"; //Текст 2
+"SliderID3sub"="Jederzeit kündbar"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="ТEXT TEXT TEXT TEXT ТEXT TEXT TEXT TEXT TEXT";  //Текст 3
+"SliderID4sub_entrance"="Text text text text text text text"; //ПодТекст 3
+
+"TextSub4ID"="Text Text Text Text";
+"TextSub5ID"="Text Text Text Text";
+
+"TextSub2ID"="Text Text Text Text";
+"TextSub6ID"="Text Text Text Text";
+
+//"SliderID4_mods"="Erstelle deine erstaunlichen Geschichten und genieße sie";
+//"SliderID4sub_mods"="Holen Sie sich unbegrenzte Mods";
+//"SliderID4_maps"="Schalten Sie alle Orte mit einem Fingertipp frei und spielen Sie ohne Einschränkungen";
+//"SliderID4sub_maps"="Geniess Dein Spiel";
+//"SliderID4_sets"="Genießen Sie jetzt interessante Augen und leuchtende Frisuren";
+//"SliderID4sub_sets"="Unbegrenzter Zugang";
+//"SliderID4_characters"="Spielen Sie wie nie zuvor mit einzigartigen Charakteren";
+//"SliderID4sub_characters"="Spielen Sie ohne Grenzen";
+//"SliderID4_guides"="Entdecken Sie unbegrenzte Rezepte, Pakete und mehr";
+//"SliderID4sub_guides"="Spielen Sie wie nie zuvor";
+/**/
+
+"SliderID5"="SAMMLE ALLE RÜSTUNGSSÄTZE NACH STANDORTEN";
+
+"SliderNoPayment"="Jetzt keine Zahlung";
+
+/**/
+"Text0ID"="ТEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="ТEXT TEXT TEXT\nTEXT TEXT TEXT TEXT"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo-Fähigkeit";
+
+/**/
+"Text19ID"="Sicherungsfähigkeit";
+
+/**/
+"Text20ID"="Aufstiegsfähigkeit";
+
+/**/
+"Text21ID"="Rückruffähigkeit";
+
+/**/
+"Text22ID"="Kamerafähigkeit";
+
+/**/
+
+"Text30ID"="Verbindungsproblem";
+"Text31ID"="Die Internetverbindung scheint offline zu sein ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Kartenname";
+"Sub_s0_i1"="Kartenname";
+"Sub_s0_i2"="Kartenname";
+"Sub_s0_i3"="Kartenname";
+"Sub_s0_i4"="Kartenname";
+"Sub_s0_i5"="Kartenname";
+"Sub_s0_i6"="Kartenname";
+"Sub_s0_i7"="Kartenname";
+"Sub_s0_i8"="Kartenname";
+"Sub_s0_i9"="Kartenname";
+"Sub_s0_i10"="Kartenname";
+
+"Sub_s1_i0"="Kartenname";
+"Sub_s1_i1"="Kartenname";
+"Sub_s1_i2"="Kartenname";
+"Sub_s1_i3"="Kartenname";
+"Sub_s1_i4"="Kartenname";
+"Sub_s1_i5"="Kartenname";
+"Sub_s1_i6"="Kartenname";
+"Sub_s1_i7"="Kartenname";
+"Sub_s1_i8"="Kartenname";
+"Sub_s1_i9"="Kartenname";
+"Sub_s1_i10"="Kartenname";
+

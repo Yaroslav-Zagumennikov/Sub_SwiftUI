@@ -1,0 +1,143 @@
+/* 
+  LocalizableApp.strings
+  Farming Simulator 2022
+
+  Created by Yaroslav Zagumennikov on 22/04/2024.
+  
+*/
+
+/**/
+"iOSAfterID"="Važno! Unutra nema besplatnog sadržaja! Morate biti pretplaćeni da biste pristupili sadržaju i značajkama aplikacije. Plaćanje se naplaćuje nakon potvrde kupnje pretplate.\n\n- Pretplata će se automatski obnoviti osim ako se automatska obnova ne isključi najmanje 24 sata prije kraja tekućeg razdoblja\n- Trošak obnove ovisi o planu pretplate . Naši standardni planovi pretplate: 1 tjedna pretplate iznosi 9,99 USD. Za druge valute, cijena odgovara razini cijene u App Store Matrici cijena\n- Pretplata s besplatnim probnim razdobljem automatski se obnavlja na plaćenu pretplatu. Možete otkazati ili upravljati automatskom obnovom besplatnog probnog razdoblja odlaskom na postavke računa nakon kupnje\n- Imajte na umu: Svaki neiskorišteni dio trodnevnog besplatnog probnog razdoblja (ako je ponuđeno) bit će izgubljen prilikom kupnje premium pretplate tijekom besplatno probno razdoblje\n- Za sve ostale informacije pogledajte naša pravila o privatnosti i uvjete korištenja.";
+/**/
+"restoreNoPurTit"="Nema kupnji za vraćanje";
+/**/
+"restoreNoPurSubTit"="Nema kupnji unutar aplikacije za vraćanje.";
+/**/
+"restorePurTit"="Kupnje su vraćene";
+/**/
+"restorePurSubTit"="Vaše kupnje su vraćene..";
+/**/
+"iOSButtonID"="NASTAVITI";
+/**/
+"iOSStart3daysTitleID"="POČNITE 3 DANA BESPLATNO \nONDA %@ TJEDAN";
+
+/**/
+"LoadingID"="UČITAVAM";
+
+/**/
+"PrivacyID"="Politika privatnosti";
+
+/**/
+"restore"="Vratiti";
+
+/**/
+"TermsID"="Uvjeti korištenja";
+
+/**/
+"SliderID1_entrance"="tekst tekst tekst tekst tekst tekst tekst"; //Текст под кнопкой
+"SliderID1tap"="Dodirnite";
+"SliderID1to"="do";
+
+//"SliderID1_mods"="Sada instalirajte nove modove za toca";
+//"SliderID1_maps"="Istražite cijeli svijet toca";
+//"SliderID1_sets"="Nabavite sada jedinstvene pakete za kosu i oči";
+//"SliderID1_characters"="Nabavite najveću kolekciju likova";
+//"SliderID1_guides"="Poboljšajte svoju toca igru ​​sada";
+
+/**/
+"SliderID2_entrance"="TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST";  //Текст 1
+"SliderID2sub_entrance"="Tekst tekst tekst tekst tekst tekst tekst"; //ПодТекст 1
+
+//"SliderID2_mods"="igrajte se s jedinstvenim likovima i uživajte";
+//"SliderID2sub_mods"="nabavite najbolje modifikacije, ideje, setove i više";
+//"SliderID2_maps"="izgradite svoj dom iz snova na novim Toca kartama";
+//"SliderID2sub_maps"="igrati kao nikad prije";
+//"SliderID2_sets"="stvoriti najveću zbirku likova";
+//"SliderID2sub_sets"="otključaj sve pakete za Tocu";
+//"SliderID2_characters"="stvarati nove priče s različitim likovima";
+//"SliderID2sub_characters"="instalirajte jednim dodirom i uživajte";
+//"SliderID2_guides"="saznajte sve korisne savjete i otključajte skrivene tajne";
+//"SliderID2sub_guides"="počnite stvarati sada";
+
+/**/
+"SliderID3"="Započnite 3 dana besplatno, a zatim 4,99 USD/7 dana"; //Текст 2
+"SliderID3sub"="Otkažite bilo kada"; //ПодТекст 2
+/**/
+"SliderID4_entrance"="TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST TEKST";  //Текст 3
+"SliderID4sub_entrance"="Tekst tekst tekst tekst tekst tekst tekst"; //ПодТекст 3
+
+"TextSub4ID"="Tekst tekst tekst tekst";
+"TextSub5ID"="Tekst tekst tekst tekst";
+
+"TextSub2ID"="Tekst tekst tekst tekst";
+"TextSub6ID"="Tekst tekst tekst tekst";
+
+//"SliderID4_mods"="Stvorite svoje nevjerojatne priče i uživajte";
+//"SliderID4sub_mods"="Dobijte neograničene modifikacije";
+//"SliderID4_maps"="Otključajte sve lokacije jednim dodirom i igrajte bez ograničenja";
+//"SliderID4sub_maps"="Uživajte u igri";
+//"SliderID4_sets"="Sada uživajte u zanimljivim očima i svijetlim frizurama";
+//"SliderID4sub_sets"="Neograničen pristup";
+//"SliderID4_characters"="Igrajte kao nikada prije s jedinstvenim likovima";
+//"SliderID4sub_characters"="Igrajte bez ograničenja";
+//"SliderID4_guides"="Otkrijte neograničen broj recepata, pakiranja i više";
+//"SliderID4sub_guides"="Igrajte kao nikada prije";
+/**/
+
+"SliderID5"="SAKUPITE SVE KOMPLETOVE OKLOPA PO LOKACIJAMA";
+
+"SliderNoPayment"="Sada nema plaćanja";
+
+/**/
+"Text0ID"="TEKST TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Текст для ПЕРВОГО слайда
+
+/**/
+"Text17ID"="TEKST TEKST TEKST\nTEKST TEKST TEKST TEKST"; // Tекст для ВТОРОГО слайда
+
+/**/
+"Text18ID"="Amiibo sposobnost";
+
+/**/
+"Text19ID"="Sposobnost osigurača";
+
+/**/
+"Text20ID"="Sposobnost uspona";
+
+/**/
+"Text21ID"="Sposobnost prisjećanja";
+
+/**/
+"Text22ID"="Sposobnost kamere";
+
+/**/
+
+"Text30ID"="Problem s povezivanjem";
+"Text31ID"="Čini se da internetska veza nije na mreži ☹️";
+
+
+/**/
+
+"Sub_s0_i0"="Naziv kartice";
+"Sub_s0_i1"="Naziv kartice";
+"Sub_s0_i2"="Naziv kartice";
+"Sub_s0_i3"="Naziv kartice";
+"Sub_s0_i4"="Naziv kartice";
+"Sub_s0_i5"="Naziv kartice";
+"Sub_s0_i6"="Naziv kartice";
+"Sub_s0_i7"="Naziv kartice";
+"Sub_s0_i8"="Naziv kartice";
+"Sub_s0_i9"="Naziv kartice";
+"Sub_s0_i10"="Naziv kartice";
+
+"Sub_s1_i0"="Naziv kartice";
+"Sub_s1_i1"="Naziv kartice";
+"Sub_s1_i2"="Naziv kartice";
+"Sub_s1_i3"="Naziv kartice";
+"Sub_s1_i4"="Naziv kartice";
+"Sub_s1_i5"="Naziv kartice";
+"Sub_s1_i6"="Naziv kartice";
+"Sub_s1_i7"="Naziv kartice";
+"Sub_s1_i8"="Naziv kartice";
+"Sub_s1_i9"="Naziv kartice";
+"Sub_s1_i10"="Naziv kartice";
+

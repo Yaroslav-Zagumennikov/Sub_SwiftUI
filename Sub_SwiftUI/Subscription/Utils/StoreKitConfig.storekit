@@ -1,0 +1,528 @@
+{
+  "identifier" : "577F905B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6475812829",
+    "_developerTeamID" : "89SPL377XV",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 738572094.82096899,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21433510",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp10",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475815364",
+          "introductoryOffer" : {
+            "internalID" : "078CF2C5",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp10",
+              "displayName" : "MyApp10",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp10",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "MyApp10",
+          "subscriptionGroupID" : "21433510",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21448916",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp11",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6478162771",
+          "introductoryOffer" : {
+            "internalID" : "886359C1",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp11",
+              "displayName" : "MyApp11",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "myapp11.sub",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "MyApp11",
+          "subscriptionGroupID" : "21448916",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21448829",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp12",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6478162936",
+          "introductoryOffer" : {
+            "internalID" : "36E99F1D",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp12",
+              "displayName" : "MyApp12",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "myapp12.sub",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "MyApp12",
+          "subscriptionGroupID" : "21448829",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433431",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp3",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475814360",
+          "introductoryOffer" : {
+            "internalID" : "97985963",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp3 premium",
+              "displayName" : "MyApp3",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp3",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "MyApp3",
+          "subscriptionGroupID" : "21433431",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433509",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp4",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475814482",
+          "introductoryOffer" : {
+            "internalID" : "C0FF9844",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp4 app",
+              "displayName" : "MyApp4",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp4",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "MyApp4",
+          "subscriptionGroupID" : "21433509",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433484",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp5",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475814545",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "MyApp4",
+              "displayName" : "MyApp4",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp5",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "MyApp5",
+          "subscriptionGroupID" : "21433484",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433400",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp6",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475814781",
+          "introductoryOffer" : {
+            "internalID" : "A1CCF0C7",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp6",
+              "displayName" : "MyApp6",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp6",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "My App6",
+          "subscriptionGroupID" : "21433400",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433289",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp7",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475814984",
+          "introductoryOffer" : {
+            "internalID" : "1F6F24F9",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "My App7",
+              "displayName" : "My App7",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp7",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "My App7",
+          "subscriptionGroupID" : "21433289",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433320",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp8",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475814995",
+          "introductoryOffer" : {
+            "internalID" : "A5DB9B86",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp8",
+              "displayName" : "MyApp8",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp8",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "My App8",
+          "subscriptionGroupID" : "21433320",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433534",
+      "localizations" : [
+
+      ],
+      "name" : "MyApp9",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475815067",
+          "introductoryOffer" : {
+            "internalID" : "8B5EFCC5",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "MyApp9",
+              "displayName" : "MyApp9",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp9",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "My App 9",
+          "subscriptionGroupID" : "21433534",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433375",
+      "localizations" : [
+
+      ],
+      "name" : "MySub1",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475812911",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "mysub1",
+              "displayName" : "mysub1",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "mysub1",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "mysub1",
+          "subscriptionGroupID" : "21433375",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21433533",
+      "localizations" : [
+
+      ],
+      "name" : "MySub2",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475814605",
+          "introductoryOffer" : {
+            "internalID" : "DF3C1157",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "Access to all features",
+              "displayName" : "MyApp2",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "premium.myapp2",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "mySub2",
+          "subscriptionGroupID" : "21433533",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
