@@ -128,6 +128,12 @@ struct MenuButtonView: View {
 
 https://github.com/Yaroslav-Zagumennikov/Sub_SwiftUI/assets/91648112/5d3f9ddc-facc-45dc-9cf8-0485fa26ef14
 
+Если при тестировании (например на симуляторе) подписка оплачивается но приложение не открывает следующий экран. Проверьте, чтобы в ваших проектах куда внедряете подписку в  в схему отладки был добавлен StoreKitConfig файл.
+
+
+https://github.com/Yaroslav-Zagumennikov/Sub_SwiftUI/assets/91648112/32e6a2f5-32d1-4386-9225-5129d9286ac5
+
+
 
 
 
